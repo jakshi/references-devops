@@ -7,6 +7,36 @@
 # DevOps
 # DevSecOps
 # Programming
+# Hiring
+## Take home projects
+
+* [ENG] https://angel.co/blog/engineers-hate-your-take-home-project-heres-how-to-fix-it
+
+## Interview questions/guidance
+
+* [ENG] https://github.com/yangshun/tech-interview-handbook
+* [ENG] https://github.com/MaximAbramchuck/awesome-interview-questions#linux
+* [ENG] https://triplebyte.com/blog/interview-questions-are-too-hard-and-too-short
+* [ENG] https://sockpuppet.org/blog/2015/03/06/the-hiring-post/
+* [RUS] https://habrahabr.ru/company/exante/blog/335096/
+* [RUS] https://habrahabr.ru/post/339720/
+* [RUS] https://habrahabr.ru/post/341220/
+
+## Interview questions for the DevOps Engineer
+
+* [ENG] https://github.com/jakshi/devops-interview-questions
+
+## Interview questions for a Backend Developer
+
+* [ENG] https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
+
+## Short digest of questions for DevOps Engineer
+
+## Meta-hirging resources
+
+* [ENG] https://amazinghiring.com/
+* [ENG] https://getcoder.io/
+
 # Management
 ## Defining tasks
 ### [ENG] Template from AirBnB
@@ -133,16 +163,6 @@ If you work with mature engineers:
 
 * [RUS] https://habr.com/en/company/exness/blog/491208/
 
-## Hiring
-### Take home projects
-
-* [ENG] https://angel.co/blog/engineers-hate-your-take-home-project-heres-how-to-fix-it
-
-### Meta-hirging resources
-
-* https://amazinghiring.com/
-* https://getcoder.io/
-
 ## Psychology for managers
 
 * [RUS] https://habr.com/en/company/oleg-bunin/blog/473440/
@@ -158,5 +178,3 @@ If you work with mature engineers:
 ## OKRs - Objective Key Results
 
 * [ENG] https://lifeclub.org/books/measure-what-matters-john-doerr-review-summary
-
-# Templates
