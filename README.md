@@ -193,6 +193,10 @@ ec2-costs us-east-1
 
 * https://blogs.aws.amazon.com/security/post/Tx1P2T3LFXXCNB5/Writing-IAM-policies-Grant-access-to-user-specific-folders-in-an-Amazon-S3-bucke
 
+### Kubernetes
+
+* https://aws.amazon.com/blogs/opensource/introducing-fine-grained-iam-roles-service-accounts/
+
 ## IaaS providers
 ### Cheap ones
 
