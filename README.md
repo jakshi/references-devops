@@ -336,6 +336,7 @@ ec2-costs us-east-1
 ## Naming
 
 * [ENG] http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
+* [ENG] https://swift.org/documentation/api-design-guidelines/#use-terminology-well
 
 ## SOLID
 
