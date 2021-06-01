@@ -402,6 +402,7 @@ ec2-costs us-east-1
 
 * [ENG] https://google.github.io/styleguide/shell.xml
 * [ENG] http://mywiki.wooledge.org/BashPitfalls
+* [ENG] https://mywiki.wooledge.org/BashGuide
 * [RUS] https://habrahabr.ru/company/mailru/blog/311762/
 
 ## Ruby
@@ -409,6 +410,7 @@ ec2-costs us-east-1
 #### Cli gems
 
 * [ENG] https://github.com/commander-rb/commander
+* [ENG] https://github.com/piotrmurach/tty-config
 * [ENG] https://github.com/settingslogic/settingslogic
 
 #### Code organization
