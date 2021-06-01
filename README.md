@@ -136,6 +136,11 @@ DevOps is also characterized by operations staff making use many of the same tec
 * [ENG] https://hackernoon.com/lesser-known-git-commands-151a1918a60#.l48pn1p8i
 * [RUS] https://habrahabr.ru/company/mailru/blog/318508/
 
+### How to undo stuff in git
+
+* [ENG] https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
+* [ENG] https://medium.com/@CarrieGuss/how-to-recover-from-a-git-hard-reset-b830b5e3f60c#.353djvmkb
+
 ## Systemd
 
 * [ENG] https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/sect-Managing_Services_with_systemd-Unit_Files.html
