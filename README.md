@@ -11,3 +11,4 @@
 * [Programming](programming.md)
 * [Hiring](hiring.md)
 * [Management](management.md)
+* [Interesting software](software.md)
