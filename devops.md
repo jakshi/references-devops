@@ -290,3 +290,34 @@ ec2-costs us-east-1
 ### WiFi CLI
 
 * [RUS] https://habrahabr.ru/post/315960/
+
+## Kubernetes
+
+* [ENG] https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab
+* [ENG] https://blog.openai.com/scaling-kubernetes-to-2500-nodes/
+* [RUS] https://habr.com/company/jugru/blog/416161/
+
+### Tools
+
+* [RUS] https://habr.com/company/mailru/blog/425343/
+* [RUS] https://habr.com/company/flant/blog/426985/
+
+### 0-downtime deployment
+
+* [RUS] https://habr.com/en/company/flant/blog/489994/
+
+### DNS delays
+
+* [RUS] https://habr.com/en/post/503032/
+
+### Networking
+
+* [ENG] https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
+
+### CPU throttling
+
+* [ENG] https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/
+
+### Autoscaling
+
+* [ENG] https://learnk8s.io/kubernetes-autoscaling-strategies#exploring-pod-autoscaling-lead-time
