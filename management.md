@@ -140,3 +140,7 @@ If you work with mature engineers:
 ## OKRs - Objective Key Results
 
 * [ENG] https://lifeclub.org/books/measure-what-matters-john-doerr-review-summary
+
+## Organization structure
+
+* [ENG] https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb
