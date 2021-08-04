@@ -144,3 +144,7 @@ If you work with mature engineers:
 ## Organization structure
 
 * [ENG] https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb
+
+## Hanlon’s Razor
+
+* [ENG] https://blog.trello.com/trello-hanlons-razor
