@@ -27,9 +27,10 @@
 
 * [ENG] https://odino.org/web-security-demistified/
 
-## Storing passwords in DB
+## Hashing passwords
 
-* [ENG] https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/
+* [ENG] Storing passwords in DB: https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/
+* [ENG] Where should we hash password frontend or backend: https://security.stackexchange.com/questions/110948/password-hashing-on-frontend-or-backend
 
 ## Security testing services and tools
 
