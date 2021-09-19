@@ -148,3 +148,7 @@ If you work with mature engineers:
 ## Hanlon’s Razor
 
 * [ENG] https://blog.trello.com/trello-hanlons-razor
+
+## The Feynman Technique - deeply learning and internalizing topics
+
+* [ENG] https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching
