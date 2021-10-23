@@ -28,6 +28,7 @@
 * [ENG] https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d
 * [ENG] https://www.infoq.com/articles/slow-down-go-faster
 * [ENG] https://levelup.gitconnected.com/programming-habits-you-should-adopt-8ab75419fb09
+* [ENG] https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 
 ## Fast programming
 
