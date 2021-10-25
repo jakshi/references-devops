@@ -96,6 +96,10 @@
 
 * [ENG] https://github.com/google/python-fire/blob/master/docs/guide.md
 
+### Debugging and logging
+
+* [ENG] https://github.com/gruns/icecream
+
 ### Packaging
 
 * [ENG] https://levelup.gitconnected.com/how-to-publish-a-python-command-line-application-to-pypi-5b97a6d586f1
