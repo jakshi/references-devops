@@ -29,6 +29,7 @@
 * [ENG] https://www.infoq.com/articles/slow-down-go-faster
 * [ENG] https://levelup.gitconnected.com/programming-habits-you-should-adopt-8ab75419fb09
 * [ENG] https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+* [ENG] https://matt-rickard.com/reflections-on-10-000-hours-of-programming/
 
 ## Fast programming
 
@@ -127,3 +128,4 @@
 * [ENG] https://github.com/ethereum/go-ethereum/wiki/Private-network
 * [ENG] https://medium.com/taipei-ethereum-meetup/beginners-guide-to-ethereum-3-explain-the-genesis-file-and-use-it-to-customize-your-blockchain-552eb6265145
 * [ENG] https://gist.github.com/0mkara/b953cc2585b18ee098cd
+
