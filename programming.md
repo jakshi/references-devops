@@ -67,6 +67,10 @@
 
 * [ENG] http://geoawesomeness.com/top-19-online-geovisualization-tools-apis-libraries-beautiful-maps/
 
+## Programming languages
+
+* [ENG] Which Programming Languages Use the Least Electricity? https://thenewstack.io/which-programming-languages-use-the-least-electricity/
+
 ## shell/bash
 
 * [ENG] https://google.github.io/styleguide/shell.xml
