@@ -108,6 +108,11 @@ DevOps is also characterized by operations staff making use many of the same tec
 
 * [ENG] statuscake.com
 
+## CI/CD
+### MLOps
+
+* MLOps and DevOps: Why Data Makes It Different: https://www.oreilly.com/radar/mlops-and-devops-why-data-makes-it-different/
+
 ## MySQL
 ### MySQL memory
 
@@ -321,3 +326,4 @@ ec2-costs us-east-1
 ### Autoscaling
 
 * [ENG] https://learnk8s.io/kubernetes-autoscaling-strategies#exploring-pod-autoscaling-lead-time
+
