@@ -31,6 +31,7 @@
 
 * [ENG] Storing passwords in DB: https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/
 * [ENG] Where should we hash password frontend or backend: https://security.stackexchange.com/questions/110948/password-hashing-on-frontend-or-backend
+* [ENG] OWASP - Password Storage Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html
 
 ## Security testing services and tools
 
