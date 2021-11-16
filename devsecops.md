@@ -45,3 +45,7 @@
 ## Crack WiFi passwords
 
 * [RUS] https://habrahabr.ru/post/347658/
+
+## Interesting vulnerabilities
+
+* [ENG] The Invisible JavaScript Backdoor: https://certitude.consulting/blog/en/invisible-backdoor/
