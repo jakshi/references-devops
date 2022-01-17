@@ -7,6 +7,7 @@
 # TOC
 
 * [DevOps references](devops.md)
+* [SRE references](sre.md)
 * [DevSecOps references](devsecops.md)
 * [Programming](programming.md)
 * [Hiring](hiring.md)
