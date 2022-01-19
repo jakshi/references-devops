@@ -24,3 +24,6 @@
 
 * fast and secure standalone server for resizing and converting remote images: https://github.com/imgproxy/imgproxy
 
+# Network
+
+* Ethr is a cross platform network performance measurement tool: https://github.com/microsoft/ethr
