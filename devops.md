@@ -207,6 +207,10 @@ ec2-costs us-east-1
 
 * https://aws.amazon.com/blogs/opensource/introducing-fine-grained-iam-roles-service-accounts/
 
+### Security
+
+* [ENG] Top 10 security best practices for securing backups in AWS: https://aws.amazon.com/blogs/security/top-10-security-best-practices-for-securing-backups-in-aws/
+
 ## IaaS providers
 ### Cheap ones
 
