@@ -27,3 +27,11 @@
 # Network
 
 * Ethr is a cross platform network performance measurement tool: https://github.com/microsoft/ethr
+
+# Utils
+
+* `alias cat=bat` A cat(1) clone with syntax highlighting and Git integration: https://github.com/sharkdp/bat
+* Fancy cat for Markdown (that is, CommonMark): https://github.com/lunaryorn/mdcat
+* The minimal, blazing-fast, and infinitely customizable prompt for any shell: https://starship.rs/
+* sd is an intuitive find & replace CLI: https://github.com/chmln/sd
+* It is tool to enable writing one file scripts in languages that require compilation, dependencies fetching or preprocessing: https://github.com/igor-petruk/scriptisto
