@@ -28,6 +28,10 @@
 
 * Ethr is a cross platform network performance measurement tool: https://github.com/microsoft/ethr
 
+# Monitoring
+
+* EaseProbe is a simple, standalone, and lightWeight tool that can do health/status checking, written in Go: https://github.com/megaease/easeprobe
+
 # Utils
 
 * `alias cat=bat` A cat(1) clone with syntax highlighting and Git integration: https://github.com/sharkdp/bat
