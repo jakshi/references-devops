@@ -19,6 +19,10 @@
 * [RUS] https://habrahabr.ru/post/306812/
 * [ENG] https://blog.gruntwork.io/a-guide-to-automating-hashicorp-vault-1-auto-unsealing-b219970f02c6
 
+### Sealed secrets
+
+* [ENG] Why you should avoid Sealed Secrets in your GitOps deployment: https://dnastacio.medium.com/why-you-should-avoid-sealed-secrets-in-your-gitops-deployment-e50131d360dd
+
 ## Password managers
 
 * [ENG] https://medium.com/@QuantopianCyber/head-to-head-evaluation-of-five-password-managers-8faa4851c767
