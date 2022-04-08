@@ -11,3 +11,8 @@
 ## DNS
 
 * [ENG] rfc1912 - Common DNS Operational and Configuration Errors: https://datatracker.ietf.org/doc/html/rfc1912#section-2.4
+
+## Editors
+### Emacs
+
+* EmacsNiftyTricks: https://www.emacswiki.org/emacs/EmacsNiftyTricks
