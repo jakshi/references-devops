@@ -7,3 +7,7 @@
 ## System design
 
 * [ENG] Will circuit breakers solve my problems?: https://brooker.co.za/blog/2022/02/16/circuit-breakers.html
+
+## DNS
+
+* [ENG] rfc1912 - Common DNS Operational and Configuration Errors: https://datatracker.ietf.org/doc/html/rfc1912#section-2.4
