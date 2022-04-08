@@ -100,7 +100,7 @@ If you work with mature engineers:
 
 ## Writing email
 
-* [ENG]  https://hbr.org/2016/11/how-to-write-email-with-military-precision
+* [ENG] How to Write Email with Military Precision: https://hbr.org/2016/11/how-to-write-email-with-military-precision
 
 ## Task prioritization
 
