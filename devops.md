@@ -2,7 +2,7 @@
 ## What is DevOps
 
 * [ENG] https://theagileadmin.com/what-is-devops/
-* [ENG] http://web.devopstopologies.com/
+* [ENG] What Team Structure is Right for DevOps to Flourish? http://web.devopstopologies.com/
 * [RUS} https://habr.com/en/company/jugru/blog/487958/
 
 ### [ENG] General definition
