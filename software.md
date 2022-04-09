@@ -3,6 +3,7 @@
 
 * Terraformer - A CLI tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform): https://github.com/GoogleCloudPlatform/terraformer
 * Terragrunt - hin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY: https://github.com/gruntwork-io/terragrunt
+* Cloudflare Terraforming - command line utility to facilitate terraforming your existing Cloudflare resources: https://github.com/cloudflare/cf-terraforming
 
 # Operations
 
