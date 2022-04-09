@@ -34,6 +34,10 @@
 
 * Ethr is a cross platform network performance measurement tool: https://github.com/microsoft/ethr
 
+## Cloudflare
+
+* cloudflare-python - Using the CloudFlare API via Python + Cloudflare API CLI wrapper: https://github.com/cloudflare/python-cloudflare
+
 # Monitoring
 
 * EaseProbe is a simple, standalone, and lightWeight tool that can do health/status checking, written in Go: https://github.com/megaease/easeprobe
