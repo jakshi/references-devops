@@ -2,6 +2,8 @@
 ## Terraform
 
 * Terraformer - A CLI tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform): https://github.com/GoogleCloudPlatform/terraformer
+* Terragrunt - hin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY: https://github.com/gruntwork-io/terragrunt
+
 # Operations
 
 * [pueue: Long-running tasks manager](https://github.com/Nukesor/pueue#why-should-i-use-it)
