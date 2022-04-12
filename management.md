@@ -73,7 +73,7 @@ If you work with mature engineers:
 * [ENG] https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html?cid=sf01001
 * [RUS] https://habr.com/en/company/lanit/blog/481584/
 
-### Discover value/creative management
+### Discover value/Innovations/creative management
 
 * [ENG] https://iism.org/article/why-are-ceos-failing-software-engineers-56
 * [ENG] http://www.paulgraham.com/makersschedule.html
