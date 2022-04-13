@@ -16,3 +16,8 @@
 ### Emacs
 
 * EmacsNiftyTricks: https://www.emacswiki.org/emacs/EmacsNiftyTricks
+
+## SSH
+### Certificates
+
+* If you’re not using SSH certificates you’re doing SSH wrong: https://smallstep.com/blog/use-ssh-certificates/
