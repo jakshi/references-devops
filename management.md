@@ -86,6 +86,10 @@ If you work with mature engineers:
 
 * [RUS] https://habr.com/post/429404/
 
+## Documentation
+
+* [ENG] documentation needs to include and be structured around its four different functions: tutorials, how-to guides, technical reference and explanation: https://documentation.divio.com/introduction/
+
 ## Retrospectives
 
 * [RUS] https://habrahabr.ru/company/mindbox/blog/347780/
