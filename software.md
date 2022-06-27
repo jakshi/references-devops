@@ -4,11 +4,17 @@
 * Terraformer - A CLI tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform): https://github.com/GoogleCloudPlatform/terraformer
 * Terragrunt - hin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY: https://github.com/gruntwork-io/terragrunt
 * Cloudflare Terraforming - command line utility to facilitate terraforming your existing Cloudflare resources: https://github.com/cloudflare/cf-terraforming
+* tfsec uses static analysis of your terraform code to spot potential misconfigurations: https://github.com/aquasecurity/tfsec
 
 # Operations
 
 * [pueue: Long-running tasks manager](https://github.com/Nukesor/pueue#why-should-i-use-it)
 * [docuum: LRU evication for docker images](https://github.com/stepchowfun/docuum)
+
+## Programming
+### SQL
+
+* SQLFluff - cross-dialect SQL linter: https://docs.sqlfluff.com/en/stable/
 
 ## k8s
 
