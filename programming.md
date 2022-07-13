@@ -83,6 +83,7 @@
 #### Cli gems
 
 * [ENG] https://github.com/commander-rb/commander
+* [ENG] Optimist is a commandline option parser for Ruby that just gets out of your way: https://github.com/ManageIQ/optimist
 * [ENG] https://github.com/piotrmurach/tty-config
 * [ENG] https://github.com/settingslogic/settingslogic
 
@@ -95,6 +96,10 @@
 #### Curl to Net::HTTP
 
 * [ENG] https://jhawthorn.github.io/curl-to-ruby/
+
+### Ruby setup on mac
+
+* [ENG] Developer Headaches on macOS Catalina: Xcode, Homebrew, Gems: https://faun.pub/macos-catalina-xcode-homebrew-gems-developer-headaches-cf7b1edf10b7
 
 ## Python
 ### CLI
