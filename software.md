@@ -32,6 +32,7 @@
 # Data
 
 * distributed dynamo layer for Redis and Memcached: https://github.com/Netflix/dynomite
+* data-diff is a command-line tool and Python library to efficiently diff rows across two different databases: https://github.com/datafold/data-diff
 
 # Images
 
