@@ -6,6 +6,10 @@
 * Cloudflare Terraforming - command line utility to facilitate terraforming your existing Cloudflare resources: https://github.com/cloudflare/cf-terraforming
 * tfsec uses static analysis of your terraform code to spot potential misconfigurations: https://github.com/aquasecurity/tfsec
 
+# API/Automation
+
+* Goexpose is lightweight json api server that maps url path to various tasks: https://github.com/phonkee/goexpose
+
 # Operations
 
 * [pueue: Long-running tasks manager](https://github.com/Nukesor/pueue#why-should-i-use-it)
