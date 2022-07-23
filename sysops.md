@@ -31,6 +31,7 @@
 * [ENG] https://en.wikipedia.org/wiki/Sender_Policy_Framework
 * [ENG] http://stackoverflow.com/questions/28311649/are-sites-without-wildcard-spf-records-vulnerable-to-subdomain-spoofing-attacks
 * [ENG] sa-test@sendmail.net
+* [ENG] 5 Ways to Check Your Sending Reputation: https://sendgrid.com/blog/5-ways-check-sending-reputation/
 
 ### Spam traps
 
