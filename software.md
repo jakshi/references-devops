@@ -32,6 +32,7 @@
 * [awsvault: stores IAM credentials in your operating system's secure keystore](https://github.com/99designs/aws-vault)
 * [open-source tool for testing if Kubernetes is deployed securely](https://github.com/armosec/kubescape)
 * [YAML DSL to enforce rules over your cloud, like tags etc.](https://cloudcustodian.io/)
+* entitlements-app is a Ruby gem which provides git-managed LDAP group configuration and access provisioning to your declared resources: https://github.com/github/entitlements-app
 
 # Data
 
