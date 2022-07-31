@@ -1,6 +1,6 @@
 # DevSecOps
-## SSL
-### SSL Test site
+## SSL/TLS
+### SSL/TLS Test site
 
 * [ENG] https://www.ssllabs.com/ssltest/analyze.html
 
@@ -8,6 +8,10 @@
 
 * [ENG] https://habrahabr.ru/post/318952/
 * [ENG] https://opensource.com/article/20/2/ssl-demand
+
+### TLS ciphers
+
+* [ENG] https://security.stackexchange.com/questions/72926/is-tls-ecdhe-rsa-with-aes-128-cbc-sha256-a-safe-cipher-suite-to-use
 
 ## Secure file transfer
 
