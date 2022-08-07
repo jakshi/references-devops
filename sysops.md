@@ -7,16 +7,6 @@
 * [RUS] https://habr.com/en/company/first/blog/442738/
 * [ENG] https://jvns.ca/perf-zine.pdf
 
-## Networking misc
-### nf_conntrack: table full error
-
-* [ENG] http://pc-freak.net/blog/resolving-nf_conntrack-table-full-dropping-packet-flood-message-in-dmesg-linux-kernel-log/
-
-## TCP queues
-
-* [ENG] http://engineering.chartbeat.com/2014/01/02/part-1-lessons-learned-tuning-tcp-and-nginx-in-ec2/
-* [ENG] http://veithen.github.io/2014/01/01/how-tcp-backlog-works-in-linux.html
-
 ## VPN
 ## Helpers/Easy VPN setup
 

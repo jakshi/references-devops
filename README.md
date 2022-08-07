@@ -10,6 +10,7 @@
 * [SRE references](sre.md)
 * [DevSecOps references](devsecops.md)
 * [SysOps references](sysops.md)
+* [NetOps references](netops.md)
 * [Programming](programming.md)
 * [Hiring](hiring.md)
 * [Management](management.md)
