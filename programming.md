@@ -108,7 +108,7 @@
 
 ### Debugging and logging
 
-* [ENG] https://github.com/gruns/icecream
+* [ENG] IceCream — Never use print() to debug again: https://github.com/gruns/icecream
 
 ### Packaging
 

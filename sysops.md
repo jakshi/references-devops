@@ -160,3 +160,7 @@ ec2-costs us-east-1
 ### WiFi CLI
 
 * [RUS] https://habrahabr.ru/post/315960/
+
+## Kernel
+
+* [ENG] Which process has PID 0? https://unix.stackexchange.com/questions/83322/which-process-has-pid-0

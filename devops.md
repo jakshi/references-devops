@@ -51,7 +51,7 @@ DevOps is also characterized by operations staff making use many of the same tec
 
 * [ENG] Imagine there’s no human error…: https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/
 
-## Monitoring
+## Observability/Monitoring
 
 * [ENG] https://github.com/sourcegraph/checkup
 * [ENG] https://www.opsdash.com
@@ -63,6 +63,12 @@ DevOps is also characterized by operations staff making use many of the same tec
 ### Blackbox monitoring
 
 * [ENG] https://statuscake.com
+
+
+### Centralized logging
+
+* [ENG] ChaosSearch: https://www.chaossearch.io/pricing
+* [ENG] Logz.io: https://logz.io/
 
 ## CI/CD
 ### MLOps
