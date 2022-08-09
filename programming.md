@@ -122,6 +122,8 @@
 ### Best practices/tools
 
 * [ENG] https://medium.com/better-programming/understanding-best-practice-python-tooling-by-comparing-popular-project-templates-6eba49229106
+* [ENG] Python 3's f-Strings: An Improved String Formatting Syntax (Guide): https://realpython.com/python-f-strings/#why-strformat-isnt-great
+* [ENG] Python String Formatting Best Practices: https://realpython.com/python-string-formatting/
 
 ## PHP
 ### Security
