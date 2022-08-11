@@ -75,6 +75,10 @@ DevOps is also characterized by operations staff making use many of the same tec
 
 * MLOps and DevOps: Why Data Makes It Different: https://www.oreilly.com/radar/mlops-and-devops-why-data-makes-it-different/
 
+### CD/Build tools
+
+* Everything you need to know about monorepos, and the tools to build them: https://monorepo.tools/
+
 ## Mac OS X
 ### Configure mac os x command line prompt
 
