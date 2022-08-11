@@ -1,3 +1,7 @@
+# AWS
+## Inventory
+
+* CloudQuery is the open-source cloud asset inventory powered by SQL: https://docs.cloudquery.io/docs/intro
 # Infrastructure as a code
 ## Terraform
 
