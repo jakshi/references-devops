@@ -136,6 +136,10 @@ ec2-costs us-east-1
 
 * [ENG] Top 10 security best practices for securing backups in AWS: https://aws.amazon.com/blogs/security/top-10-security-best-practices-for-securing-backups-in-aws/
 
+### Inventory
+
+* AWS Cloud Scanners: https://heldsteel7.medium.com/aws-cloud-scanners-10024e4bb16f
+
 ## IaaS providers
 ### Cheap ones
 
