@@ -24,9 +24,10 @@
 
 * SQLFluff - cross-dialect SQL linter: https://docs.sqlfluff.com/en/stable/
 
-## k8s
+# kubernetes/k8s
 
 * k8s configs management: https://kubecm.cloud/#/en-us/README
+* Paralus is a free, open source tool that enables controlled, audited access to Kubernetes infrastructure for your users, user groups, and services. Ships as a GUI, API, and CLI: https://github.com/paralus/paralus
 
 # Security
 
