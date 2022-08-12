@@ -13,8 +13,9 @@
 * [RUS] https://habrahabr.ru/post/339720/
 * [RUS] https://habrahabr.ru/post/341220/
 
-## Interview questions for the DevOps Engineer
+## Interview questions for the DevOps/SRE Engineer
 
+* [ENG] This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE: https://github.com/bregman-arie/devops-exercises
 * [ENG] https://github.com/jakshi/devops-interview-questions
 
 ## Interview questions for a Backend Developer
