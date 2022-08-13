@@ -168,3 +168,8 @@ ec2-costs us-east-1
 ## Kernel
 
 * [ENG] Which process has PID 0? https://unix.stackexchange.com/questions/83322/which-process-has-pid-0
+
+## Sync
+### Rsync
+
+* The fastest remote directory rsync over ssh archival I can muster (40MB/s over 1gb NICs): https://gist.github.com/KartikTalwar/4393116

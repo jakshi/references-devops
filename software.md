@@ -2,6 +2,8 @@
 ## Inventory
 
 * CloudQuery is the open-source cloud asset inventory powered by SQL: https://docs.cloudquery.io/docs/intro
+* aws-es-proxy is a small web server application sitting between your HTTP client (browser, curl, etc...) and Amazon Elasticsearch service: https://github.com/abutaha/aws-es-proxy
+
 # Infrastructure as a code
 ## Terraform
 
@@ -38,6 +40,8 @@
 * [open-source tool for testing if Kubernetes is deployed securely](https://github.com/armosec/kubescape)
 * [YAML DSL to enforce rules over your cloud, like tags etc.](https://cloudcustodian.io/)
 * entitlements-app is a Ruby gem which provides git-managed LDAP group configuration and access provisioning to your declared resources: https://github.com/github/entitlements-app
+* Teleport is the easiest, most secure way to access all your infrastructure: https://github.com/gravitational/teleport
+  * Teleport is an identity-aware, multi-protocol access proxy which understands SSH, HTTPS, RDP, Kubernetes API, MySQL, MongoDB and PostgreSQL wire protocols.
 
 # Data
 
