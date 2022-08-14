@@ -109,6 +109,7 @@
 ### Debugging and logging
 
 * [ENG] IceCream — Never use print() to debug again: https://github.com/gruns/icecream
+* [ENG] Basic Logging Tutorial: https://docs.python.org/3/howto/logging.html#logging-basic-tutorial
 
 ### Packaging
 

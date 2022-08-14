@@ -12,6 +12,7 @@
 ### TLS ciphers
 
 * [ENG] https://security.stackexchange.com/questions/72926/is-tls-ecdhe-rsa-with-aes-128-cbc-sha256-a-safe-cipher-suite-to-use
+* [ENG] Cloudflare - Cipher suites — Edge certificates: https://developers.cloudflare.com/ssl/ssl-tls/cipher-suites/
 
 ## Secure file transfer
 
