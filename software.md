@@ -4,6 +4,10 @@
 * CloudQuery is the open-source cloud asset inventory powered by SQL: https://docs.cloudquery.io/docs/intro
 * aws-es-proxy is a small web server application sitting between your HTTP client (browser, curl, etc...) and Amazon Elasticsearch service: https://github.com/abutaha/aws-es-proxy
 
+# Github
+
+* GitHub Apps to automate and improve your workflow - ProBot: https://probot.github.io/
+
 # Infrastructure as a code
 ## Terraform
 
@@ -71,3 +75,4 @@
 * The minimal, blazing-fast, and infinitely customizable prompt for any shell: https://starship.rs/
 * sd is an intuitive find & replace CLI: https://github.com/chmln/sd
 * It is tool to enable writing one file scripts in languages that require compilation, dependencies fetching or preprocessing: https://github.com/igor-petruk/scriptisto
+
