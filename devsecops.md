@@ -58,3 +58,7 @@
 ## Interesting vulnerabilities
 
 * [ENG] The Invisible JavaScript Backdoor: https://certitude.consulting/blog/en/invisible-backdoor/
+
+## Github
+
+* [ENG] You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
