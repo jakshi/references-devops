@@ -47,10 +47,11 @@
 * Teleport is the easiest, most secure way to access all your infrastructure: https://github.com/gravitational/teleport
   * Teleport is an identity-aware, multi-protocol access proxy which understands SSH, HTTPS, RDP, Kubernetes API, MySQL, MongoDB and PostgreSQL wire protocols.
 
-# Data
+# Data and Databases
 
 * distributed dynamo layer for Redis and Memcached: https://github.com/Netflix/dynomite
 * data-diff is a command-line tool and Python library to efficiently diff rows across two different databases: https://github.com/datafold/data-diff
+* Maxwell's daemon, an application that reads MySQL binlogs and writes row updates as JSON to Kafka, Kinesis, or other streaming platforms: https://github.com/zendesk/maxwell/blob/master/README.md
 
 # Images
 
@@ -67,6 +68,7 @@
 # Monitoring
 
 * EaseProbe is a simple, standalone, and lightWeight tool that can do health/status checking, written in Go: https://github.com/megaease/easeprobe
+* A lightweight, ultra-fast tool for building observability pipelines: https://vector.dev/
 
 # Utils
 
