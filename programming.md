@@ -15,6 +15,7 @@
 
 ## Resources in web to learn programming
 
+* [ENG] This is the website we wish we had when we were learning on our own: https://www.theodinproject.com/
 * [RUS] https://habr.com/post/331530/
 * [RUS] https://habr.com/post/424329/
 

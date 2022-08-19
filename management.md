@@ -149,7 +149,7 @@ If you work with mature engineers:
 
 * [ENG] https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb
 
-## Coachin and learning
+## Coaching and learning
 
 * [ENG] https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/
 
