@@ -4,9 +4,10 @@
 * CloudQuery is the open-source cloud asset inventory powered by SQL: https://docs.cloudquery.io/docs/intro
 * aws-es-proxy is a small web server application sitting between your HTTP client (browser, curl, etc...) and Amazon Elasticsearch service: https://github.com/abutaha/aws-es-proxy
 
-# Github
+# Git/Github
 
 * GitHub Apps to automate and improve your workflow - ProBot: https://probot.github.io/
+* A tool to monitor git repositories and automatically pull & push changes: https://github.com/muesli/gitomatic
 
 # Infrastructure as a code
 ## Terraform
