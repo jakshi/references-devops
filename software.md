@@ -53,6 +53,7 @@
 * distributed dynamo layer for Redis and Memcached: https://github.com/Netflix/dynomite
 * data-diff is a command-line tool and Python library to efficiently diff rows across two different databases: https://github.com/datafold/data-diff
 * Maxwell's daemon, an application that reads MySQL binlogs and writes row updates as JSON to Kafka, Kinesis, or other streaming platforms: https://github.com/zendesk/maxwell/blob/master/README.md
+* kill-mysql-query interactively shows long running queries in MySQL database and provides option to kill them one by one: https://github.com/mugli/go-kill-mysql-query
 
 # Images
 
