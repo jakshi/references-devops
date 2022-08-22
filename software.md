@@ -72,6 +72,7 @@
 * EaseProbe is a simple, standalone, and lightWeight tool that can do health/status checking, written in Go: https://github.com/megaease/easeprobe
 * A lightweight, ultra-fast tool for building observability pipelines: https://vector.dev/
 * VictoriaMetrics is a fast, cost-effective and scalable monitoring solution and time series database: https://github.com/VictoriaMetrics/VictoriaMetrics
+
 # Utils
 
 * `alias cat=bat` A cat(1) clone with syntax highlighting and Git integration: https://github.com/sharkdp/bat
@@ -80,3 +81,6 @@
 * sd is an intuitive find & replace CLI: https://github.com/chmln/sd
 * It is tool to enable writing one file scripts in languages that require compilation, dependencies fetching or preprocessing: https://github.com/igor-petruk/scriptisto
 
+# Knowledge management/documentation
+
+* Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files: https://obsidian.md/
