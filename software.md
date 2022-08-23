@@ -8,6 +8,7 @@
 
 * GitHub Apps to automate and improve your workflow - ProBot: https://probot.github.io/
 * A tool to monitor git repositories and automatically pull & push changes: https://github.com/muesli/gitomatic
+* an alternative to git-filter-branch: https://rtyley.github.io/bfg-repo-cleaner/
 
 # Infrastructure as a code
 ## Terraform
