@@ -149,6 +149,10 @@ DevOps is also characterized by operations staff making use many of the same tec
 * [ENG] https://blog.openai.com/scaling-kubernetes-to-2500-nodes/
 * [RUS] https://habr.com/company/jugru/blog/416161/
 
+### Cost management
+
+* [ENG] Kubecost | Kubernetes cost monitoring and management: https://www.kubecost.com/
+
 ### Tools
 
 * [RUS] https://habr.com/company/mailru/blog/425343/
