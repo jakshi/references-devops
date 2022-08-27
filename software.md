@@ -86,3 +86,8 @@
 # Knowledge management/documentation
 
 * Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files: https://obsidian.md/
+
+# OS
+## ChromeOS
+
+* ChromeOS Flex The cloud-first, easy-to-manage, and fast operating system for PCs and Macs: https://www.neverware.com/#intro-flex
