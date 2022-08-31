@@ -102,10 +102,6 @@ If you work with mature engineers:
 
 * [ENG] https://uxdesign.cc/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56
 
-## Writing email
-
-* [ENG] How to Write Email with Military Precision: https://hbr.org/2016/11/how-to-write-email-with-military-precision
-
 ## Task prioritization
 
 * [ENG] http://www.elidedbranches.com/2019/05/opp-other-peoples-problems.html
@@ -121,17 +117,26 @@ If you work with mature engineers:
 * [ENG] unito.io
 
 ## Communication
-## Async communication
+### Async communication
 
 * [ENG] https://doist.com/blog/asynchronous-communication/
 
-## Empathy
+### Empathy
 
 * [RUS] https://habr.com/en/company/exness/blog/491208/
 
-## Psychology for managers
+### Psychology for managers
 
 * [RUS] https://habr.com/en/company/oleg-bunin/blog/473440/
+
+### Templates
+#### Writing email
+
+* [ENG] How to Write Email with Military Precision: https://hbr.org/2016/11/how-to-write-email-with-military-precision
+
+#### Writing farewell messages
+
+* [ENG] How To Write a Formal Farewell Message to Your Boss: https://sg.indeed.com/career-advice/career-development/farewell-message-to-boss
 
 ## Deadlines
 
@@ -153,10 +158,12 @@ If you work with mature engineers:
 
 * [ENG] https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/
 
-## Hanlon’s Razor
+### Hanlon’s Razor
 
 * [ENG] https://blog.trello.com/trello-hanlons-razor
 
-## The Feynman Technique - deeply learning and internalizing topics
+### The Feynman Technique - deeply learning and internalizing topics
 
 * [ENG] https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching
+
+## 
