@@ -62,7 +62,7 @@
 
 ## AWS Lambdas
 
-* https://github.com/serverless/serverless
+* [ENG] https://github.com/serverless/serverless
 
 ## Geodata
 
@@ -78,6 +78,11 @@
 * [ENG] http://mywiki.wooledge.org/BashPitfalls
 * [ENG] https://mywiki.wooledge.org/BashGuide
 * [RUS] https://habrahabr.ru/company/mailru/blog/311762/
+
+## Make
+
+* [ENG] Automation and Make course from Software Carpentry: http://swcarpentry.github.io/make-novice/
+* [ENG] Automation and Make course from Software Carpentry - References: http://swcarpentry.github.io/make-novice/reference
 
 ## Ruby
 ### CLI
