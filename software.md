@@ -49,6 +49,7 @@
 * Teleport is the easiest, most secure way to access all your infrastructure: https://github.com/gravitational/teleport
   * Teleport is an identity-aware, multi-protocol access proxy which understands SSH, HTTPS, RDP, Kubernetes API, MySQL, MongoDB and PostgreSQL wire protocols.
 * Hashicorp Boundary provides access to applications and critical systems with fine-grained authorizations without managing credentials or exposing your network: https://www.boundaryproject.io/
+* [sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP](https://github.com/mozilla/sops)
 
 # Data and Databases
 
