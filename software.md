@@ -77,8 +77,9 @@
 * A lightweight, ultra-fast tool for building observability pipelines: https://vector.dev/
 * VictoriaMetrics is a fast, cost-effective and scalable monitoring solution and time series database: https://github.com/VictoriaMetrics/VictoriaMetrics
 
-# Utils
+# Everyday tools, utils, terminal, console
 
+* Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration: https://ohmyz.sh/
 * `alias cat=bat` A cat(1) clone with syntax highlighting and Git integration: https://github.com/sharkdp/bat
 * Fancy cat for Markdown (that is, CommonMark): https://github.com/lunaryorn/mdcat
 * The minimal, blazing-fast, and infinitely customizable prompt for any shell: https://starship.rs/
