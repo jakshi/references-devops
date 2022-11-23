@@ -85,6 +85,7 @@
 * The minimal, blazing-fast, and infinitely customizable prompt for any shell: https://starship.rs/
 * sd is an intuitive find & replace CLI: https://github.com/chmln/sd
 * It is tool to enable writing one file scripts in languages that require compilation, dependencies fetching or preprocessing: https://github.com/igor-petruk/scriptisto
+* sh is a full-fledged subprocess replacement for Python 2, Python 3, PyPy and PyPy3 that allows you to call any program as if it were a function: https://github.com/amoffat/sh
 
 # Knowledge management/documentation
 
