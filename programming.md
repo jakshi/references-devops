@@ -132,6 +132,12 @@
 * [ENG] Python 3's f-Strings: An Improved String Formatting Syntax (Guide): https://realpython.com/python-f-strings/#why-strformat-isnt-great
 * [ENG] Python String Formatting Best Practices: https://realpython.com/python-string-formatting/
 
+### Project structure
+
+* [ENG] The optimal python project structure: https://awaywithideas.com/the-optimal-python-project-structure/
+* [ENG] 7 Ways to Make Your Python Project Structure More Elegant: https://www.the-analytics.club/python-project-structure-best-practices
+
+
 ## PHP
 ### Security
 
