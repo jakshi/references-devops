@@ -31,10 +31,14 @@
 * [pueue: Long-running tasks manager](https://github.com/Nukesor/pueue#why-should-i-use-it)
 * [docuum: LRU evication for docker images](https://github.com/stepchowfun/docuum)
 
-## Programming
-### SQL
+# Programming
+## SQL
 
 * SQLFluff - cross-dialect SQL linter: https://docs.sqlfluff.com/en/stable/
+
+## Task managers
+
+* task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make: https://taskfile.dev/
 
 # kubernetes/k8s
 
