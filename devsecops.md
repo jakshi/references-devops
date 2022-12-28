@@ -62,3 +62,11 @@
 ## Github
 
 * [ENG] You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+### Github actions assume roles
+
+* [ENG] Secure deployments with OpenID Connect & GitHub Actions now generally available: https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/
+* [ENG] GitHub Actions and no AWS credentials: https://grrr.tech/posts/2021/github-actions-assume-role/
+* [ENG] Connect GitHub Actions and AWS using OIDC: https://sixfeetup.com/blog/aws_access_key_id-and-github-actions-secrets
+* [ENG] Securely Access Your AWS Resources From Github Actions: https://benoitboure.com/securely-access-your-aws-resources-from-github-actions
+* [ENG] AWS credential and region environment variables for use in other GitHub Action: https://github.com/aws-actions/configure-aws-credentials
