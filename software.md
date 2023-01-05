@@ -22,6 +22,11 @@
 * Cloudflare Terraforming - command line utility to facilitate terraforming your existing Cloudflare resources: https://github.com/cloudflare/cf-terraforming
 * tfsec uses static analysis of your terraform code to spot potential misconfigurations: https://github.com/aquasecurity/tfsec
 
+## Ansible
+
+* AWX provides a web-based user interface, REST API, and task engine built on top of Ansible: https://github.com/ansible/awx
+* Modern UI for Ansible: https://www.ansible-semaphore.com/
+
 # API/Automation
 
 * Goexpose is lightweight json api server that maps url path to various tasks: https://github.com/phonkee/goexpose

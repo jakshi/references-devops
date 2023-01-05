@@ -21,3 +21,7 @@
 ### Certificates
 
 * If you’re not using SSH certificates you’re doing SSH wrong: https://smallstep.com/blog/use-ssh-certificates/
+
+## SLO
+
+* OpenSLO is a service level objective (SLO) language that declaratively defines reliability and performance targets using a simple YAML specification: https://openslo.com/
