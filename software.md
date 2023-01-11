@@ -52,6 +52,7 @@
 
 # Security
 
+* easy to use, all-in-one solution for security researchers: https://github.com/bettercap/bettercap
 * [croc: Secure files sending](https://github.com/schollz/croc)
 * [chezmoi: Managing dot files](https://www.chezmoi.io/)
 * [Awsume: convenient way to manage session tokens and assume role credentials](https://awsu.me/)
