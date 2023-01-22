@@ -105,6 +105,10 @@
 
 * Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files: https://obsidian.md/
 
+# Project/product management
+
+* Linear: Streamline issues, sprints, and product roadmaps: https://linear.app/
+
 # OS
 ## ChromeOS
 
