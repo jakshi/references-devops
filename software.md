@@ -37,6 +37,10 @@
 * [docuum: LRU evication for docker images](https://github.com/stepchowfun/docuum)
 
 # Programming
+## Scripting in compiled languages
+
+* Scriptisto - is tool to enable writing one file scripts in languages that require compilation, dependencies fetching or preprocessing: https://github.com/igor-petruk/scriptisto
+
 ## SQL
 
 * SQLFluff - cross-dialect SQL linter: https://docs.sqlfluff.com/en/stable/
