@@ -21,6 +21,9 @@
 * Terragrunt - hin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY: https://github.com/gruntwork-io/terragrunt
 * Cloudflare Terraforming - command line utility to facilitate terraforming your existing Cloudflare resources: https://github.com/cloudflare/cf-terraforming
 * tfsec uses static analysis of your terraform code to spot potential misconfigurations: https://github.com/aquasecurity/tfsec
+* Use m1-terraform-provider-helper to compile Terraform providers for Mac M1
+  * https://corradoignoti.medium.com/use-m1-terraform-provider-helper-to-compile-terraform-providers-for-mac-m1-94b0808f826b
+  * https://github.com/kreuzwerker/m1-terraform-provider-helper
 
 ## Ansible
 
