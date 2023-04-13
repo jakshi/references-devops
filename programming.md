@@ -157,3 +157,8 @@
 ### Learning
 
 * [ENG] ClojureScript Koans: http://clojurescriptkoans.com/
+
+## Rust
+### Memory safety
+
+* [ENG] Safety and Soundness in Rust: https://jacko.io/safety_and_soundness.html
