@@ -64,7 +64,6 @@ DevOps is also characterized by operations staff making use many of the same tec
 
 * [ENG] https://statuscake.com
 
-
 ### Centralized logging
 
 * [ENG] ChaosSearch: https://www.chaossearch.io/pricing
@@ -107,21 +106,26 @@ DevOps is also characterized by operations staff making use many of the same tec
 
 * [ENG] https://github.com/Hammerspoon/hammerspoon
 
-## Terraform
+## Infrastructure as a code (IaaC)
+### Terraform
 
 * [ENG] https://github.com/coinbase/geoengineer
 * [ENG] https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code
 * [ENG] https://github.com/contino/terraform-best-practice
 
-### Terraform run by developers
+#### Terraform run by developers
 
 * https://medium.com/runatlantis/putting-the-dev-into-devops-why-your-developers-should-write-terraform-too-d3c079dfc6a8
 * https://www.runatlantis.io
 
-### Capturing infrastructure
+#### Capturing infrastructure
 
 * [ENG] https://github.com/dtan4/terraforming
 * [ENG] https://github.com/GoogleCloudPlatform/terraformer
+
+### SaltStack (Salt)
+
+* [ENG] Minion did not retrun. [No response]: https://www.reddit.com/r/saltstack/comments/12kzqon/minion_did_not_retrun_no_response/
 
 ## Docker
 ### Security
