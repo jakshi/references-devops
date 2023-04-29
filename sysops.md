@@ -140,6 +140,10 @@ ec2-costs us-east-1
 
 * AWS Cloud Scanners: https://heldsteel7.medium.com/aws-cloud-scanners-10024e4bb16f
 
+## GCP
+
+* Get Performance, Costs, Security recommendation in GCP: https://console.cloud.google.com/home/recommendations?referrer=search&project=my-project
+
 ## IaaS providers
 ### Cheap ones
 
