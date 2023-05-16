@@ -121,3 +121,7 @@
 ## ChromeOS
 
 * ChromeOS Flex The cloud-first, easy-to-manage, and fast operating system for PCs and Macs: https://www.neverware.com/#intro-flex
+
+# CI/CD
+
+* Earthly is a super simple CI/CD framework: https://docs.earthly.dev/
