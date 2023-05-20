@@ -183,3 +183,6 @@ DevOps is also characterized by operations staff making use many of the same tec
 
 * [ENG] https://learnk8s.io/kubernetes-autoscaling-strategies#exploring-pod-autoscaling-lead-time
 
+## Git/Github
+
+* [ENG] How To Work With Multiple Github Accounts on a single Machine: https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3
