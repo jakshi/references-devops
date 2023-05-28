@@ -112,9 +112,14 @@ If you work with mature engineers:
 * [ENG] https://hygger.io/
 * [ENG] https://trello.com/
 
-### JIRA/Trello integration
+### JIRA/Confluence
+#### JIRA/Trello integration
 
 * [ENG] unito.io
+
+#### JIRA CLI
+
+* [ENG] Introducing Jira CLI: The Missing Command-line Tool for Atlassian Jira: https://medium.com/@ankitpokhrel/introducing-jira-cli-the-missing-command-line-tool-for-atlassian-jira-fe44982cc1de
 
 ## Communication
 ### Async communication
