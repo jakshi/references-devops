@@ -116,6 +116,7 @@
 
 # Security
 
+* TruffleHog - Find leaked credentials: https://github.com/trufflesecurity/trufflehog
 * easy to use, all-in-one solution for security researchers: https://github.com/bettercap/bettercap
 * [croc: Secure files sending](https://github.com/schollz/croc)
 * [chezmoi: Managing dot files](https://www.chezmoi.io/)
