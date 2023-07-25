@@ -32,6 +32,10 @@
 
 * [ENG] Why you should avoid Sealed Secrets in your GitOps deployment: https://dnastacio.medium.com/why-you-should-avoid-sealed-secrets-in-your-gitops-deployment-e50131d360dd
 
+## Jenkins secrets
+
+* [ENG] Accessing and dumping Jenkins credentials: https://www.codurance.com/publications/2019/05/30/accessing-and-dumping-jenkins-credentials
+
 ## Password managers
 
 * [ENG] https://medium.com/@QuantopianCyber/head-to-head-evaluation-of-five-password-managers-8faa4851c767
