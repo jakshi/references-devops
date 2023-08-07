@@ -128,7 +128,9 @@
 
 ### Best practices/tools
 
-* [ENG] https://medium.com/better-programming/understanding-best-practice-python-tooling-by-comparing-popular-project-templates-6eba49229106
+* [ENG] A hygienic Python setup for Linux, Mac, and WSL: https://ben11kehoe.medium.com/my-python-setup-77c57a2fc4b6
+* [ENG] Further Configuration of pip and Virtualenv: https://docs.python-guide.org/dev/pip-virtualenv/
+* [ENG] Understanding Best Practice Python Tooling by Comparing Popular Project Templates: https://medium.com/better-programming/understanding-best-practice-python-tooling-by-comparing-popular-project-templates-6eba49229106
 * [ENG] Python 3's f-Strings: An Improved String Formatting Syntax (Guide): https://realpython.com/python-f-strings/#why-strformat-isnt-great
 * [ENG] Python String Formatting Best Practices: https://realpython.com/python-string-formatting/
 
