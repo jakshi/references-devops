@@ -108,6 +108,12 @@
 * [ENG] https://github.com/bitly/oauth2_proxy
 
 ## AWS
+### AWS SSO explained 
+
+* [ENG] You only need to call`aws sso login` once for all your profiles: https://ben11kehoe.medium.com/you-only-need-to-call-aws-sso-login-once-for-all-your-profiles-41a334e1b37e
+* [ENG] AWS configuration files, explained: https://ben11kehoe.medium.com/aws-configuration-files-explained-9a7ea7a5b42e
+
+
 ### Util to check which instances are covered by reserved instances
 
 * [ENG] https://github.com/balanced-ops/ec2-cost-tools
