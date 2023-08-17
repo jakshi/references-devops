@@ -78,3 +78,8 @@
 * [ENG] Connect GitHub Actions and AWS using OIDC: https://sixfeetup.com/blog/aws_access_key_id-and-github-actions-secrets
 * [ENG] Securely Access Your AWS Resources From Github Actions: https://benoitboure.com/securely-access-your-aws-resources-from-github-actions
 * [ENG] AWS credential and region environment variables for use in other GitHub Action: https://github.com/aws-actions/configure-aws-credentials
+
+## DNS
+### DNS scanning
+
+* bruteforce and resolve the subdomains with wildcard handling support: https://github.com/projectdiscovery/shuffledns
