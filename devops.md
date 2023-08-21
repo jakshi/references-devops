@@ -113,6 +113,11 @@ DevOps is also characterized by operations staff making use many of the same tec
 * [ENG] https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code
 * [ENG] https://github.com/contino/terraform-best-practice
 
+#### Terraform modules
+
+* [ENG] Module Sources: https://developer.hashicorp.com/terraform/language/modules/sources#github
+* [ENG] Using Private Git Repositories as Terraform Modules: https://wahlnetwork.com/2020/08/11/using-private-git-repositories-as-terraform-modules/
+
 #### Terraform run by developers
 
 * https://medium.com/runatlantis/putting-the-dev-into-devops-why-your-developers-should-write-terraform-too-d3c079dfc6a8
