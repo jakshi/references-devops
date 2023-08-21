@@ -183,3 +183,10 @@ ec2-costs us-east-1
 ### Rsync
 
 * The fastest remote directory rsync over ssh archival I can muster (40MB/s over 1gb NICs): https://gist.github.com/KartikTalwar/4393116
+
+## Backup
+
+* Why should I switch from Restic to Borg? https://www.reddit.com/r/BorgBackup/comments/v3bwfg/why_should_i_switch_from_restic_to_borg/
+* BorgBackup (short: Borg) is a deduplicating backup program. https://borgbackup.readthedocs.io/en/stable/index.html
+* borgmatic is simple, configuration-driven backup software for servers and workstations. https://projects.torsion.org/borgmatic-collective/borgmatic
+* Restic is a fast and secure backup program. https://restic.readthedocs.io/en/latest/010_introduction.html
