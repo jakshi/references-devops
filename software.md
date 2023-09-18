@@ -61,6 +61,7 @@
 * sh is a full-fledged subprocess replacement for Python 2, Python 3, PyPy and PyPy3 that allows you to call any program as if it were a function: https://github.com/amoffat/sh
 * Vim JIRA Atlassian: Create, Update and Follow Along Jira Issues Actively Without Leaving Vim! https://github.com/n0v1c3/vira
 * JiraCLI - Feature-rich Interactive Jira Command Line: https://github.com/ankitpokhrel/jira-cli
+* Apprise allows you to send a notification to almost all of the most popular notification services available to us today: https://pypi.org/project/apprise/
 
 ## Knowledge management/documentation
 
