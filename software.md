@@ -49,6 +49,7 @@
 * EaseProbe is a simple, standalone, and lightWeight tool that can do health/status checking, written in Go: https://github.com/megaease/easeprobe
 * A lightweight, ultra-fast tool for building observability pipelines: https://vector.dev/
 * VictoriaMetrics is a fast, cost-effective and scalable monitoring solution and time series database: https://github.com/VictoriaMetrics/VictoriaMetrics
+* Uptime Kuma is an easy-to-use self-hosted monitoring tool: https://github.com/louislam/uptime-kuma
 
 ## Everyday tools, utils, terminal, console
 
