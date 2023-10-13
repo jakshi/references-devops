@@ -50,6 +50,7 @@ DevOps is also characterized by operations staff making use many of the same tec
 ## Blameless culture
 
 * [ENG] Imagine there’s no human error…: https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/
+* [ENG] The infinite hows: https://www.oreilly.com/radar/the-infinite-hows/
 
 ## Observability/Monitoring
 
