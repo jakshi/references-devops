@@ -67,6 +67,7 @@
 ## Knowledge management/documentation
 
 * Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files: https://obsidian.md/
+* Project documentation with Markdown: https://www.mkdocs.org/
 
 ## Project/product management
 
