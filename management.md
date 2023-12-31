@@ -112,6 +112,7 @@ If you work with mature engineers:
 * [ENG] https://hygger.io/
 * [ENG] https://trello.com/
 * [ENG] https://community.taiga.io/t/taiga-30min-setup/170
+* [ENG] https://github.com/plankanban/planka
 
 ### JIRA/Confluence
 #### JIRA/Trello integration
