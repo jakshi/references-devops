@@ -173,4 +173,6 @@ If you work with mature engineers:
 
 * [ENG] https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching
 
-## 
+## Teams
+
+* [ENG] Tuckman's Stages of Group Development: https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx
