@@ -193,3 +193,4 @@ DevOps is also characterized by operations staff making use many of the same tec
 ## Git/Github
 
 * [ENG] How To Work With Multiple Github Accounts on a single Machine: https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3
+* [ENG] Git mistakes from Julia Evans: https://gist.github.com/jvns/f7d2db163298423751a9d1a823d7c7c1
