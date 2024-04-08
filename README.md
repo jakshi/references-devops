@@ -1,8 +1,6 @@
 # Description
 
 * Digests and Links to usefule resources about DevOps and related topics
-* Some links point to English resources and some links point to Russian resources.
-  * They marked correspondingly [ENG] and [RUS] 
 
 # TOC
 

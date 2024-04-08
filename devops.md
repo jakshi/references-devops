@@ -4,10 +4,10 @@
 * https://theagileadmin.com/what-is-devops/
 * What Team Structure is Right for DevOps to Flourish? http://web.devopstopologies.com/
 
-### [ENG] General definition
+### General definition
 DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support. 
 
-### [ENG] Extended definition
+### Extended definition
 DevOps is CRISP approach with CALMS as its principles and values
 
 CRISP:
@@ -26,10 +26,10 @@ CALMS:
 * M – Measure (Measure with shared metrics across the Dev and ops for better management)
 * S – Sharing (Shared delivery process across Dev and Ops to build , deploy, maintain and monitor product with mentality of One Team – One Goal)
 
-### [ENG] Additional notes
+### Additional notes
 DevOps is also characterized by operations staff making use many of the same techniques as developers for their systems work. 
 
-### [ENG] My personal definition/view/notes
+### My personal definition/view/notes
 
 * DevOps is using agile development practices and agile culture in application to managing IT infrastructure.
 * The goal is also the same - faster delivery, faster feedback cycle.

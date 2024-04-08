@@ -18,35 +18,32 @@ Malevolent personalities can cause a lot of damage to the company (on top of the
 
 ## Take home projects
 
-* [ENG] https://angel.co/blog/engineers-hate-your-take-home-project-heres-how-to-fix-it
+* https://angel.co/blog/engineers-hate-your-take-home-project-heres-how-to-fix-it
 
 ## Interview questions/guidance
 
-* [ENG] https://github.com/yangshun/tech-interview-handbook
-* [ENG] https://github.com/MaximAbramchuck/awesome-interview-questions#linux
-* [ENG] https://triplebyte.com/blog/interview-questions-are-too-hard-and-too-short
-* [ENG] https://sockpuppet.org/blog/2015/03/06/the-hiring-post/
-* [RUS] https://habrahabr.ru/company/exante/blog/335096/
-* [RUS] https://habrahabr.ru/post/339720/
-* [RUS] https://habrahabr.ru/post/341220/
+* https://github.com/yangshun/tech-interview-handbook
+* https://github.com/MaximAbramchuck/awesome-interview-questions#linux
+* https://triplebyte.com/blog/interview-questions-are-too-hard-and-too-short
+* https://sockpuppet.org/blog/2015/03/06/the-hiring-post/
 
 ## Interview questions for the DevOps/SRE Engineer
 
-* [ENG] This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE: https://github.com/bregman-arie/devops-exercises
-* [ENG] https://github.com/jakshi/devops-interview-questions
+* This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE: https://github.com/bregman-arie/devops-exercises
+* https://github.com/jakshi/devops-interview-questions
 
 ## Interview questions for a Backend Developer
 
-* [ENG] https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
+* https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 
 ## Remote coding interview
 
-* [ENG] https://repl.it/
+* https://repl.it/
 
 ## Meta-hirging resources
 
-* [ENG] https://amazinghiring.com/
-* [ENG] https://getcoder.io/
+* https://amazinghiring.com/
+* https://getcoder.io/
 
 ## Short digest of questions for DevOps Engineer
 ### General

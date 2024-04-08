@@ -1,6 +1,6 @@
 # Management
 ## Defining tasks
-### [ENG] Template from AirBnB
+### Template from AirBnB
 
 ```
 ### Project Title
@@ -29,23 +29,7 @@
 ...
 ```
 
-### [ENG] TOTE
-For small tasks for juniour/middle
-
-* T1 — Test — желаемое состояние, к которому мы стремимся, какое оно?
-* О — Operation — какие действия мы должны делать, чтобы достигнуть результата?
-* T2 — Test2 — по каким признакам мы поймём, что продвинулись в сторону результата?
-* E — Exit — по каким критериям мы поймём, что результат окончательно достигнут?
-
-### [RUS] Правила управления задачами.
-диалог по задаче не прекращается, пока не 
-
-* Следующие шаги должны быть описаны и конкретизированы.
-* У задачи должен быть назначен один ответственный.
-* Должна быть определена страховка от невыполнения.
-* Назначено время, место и способ следующей контрольной точки.
-
-## [ENG] How much guidance should you give to the team (as an engineering leader)?
+## How much guidance should you give to the team (as an engineering leader)?
 If you work with mature engineers:
 
 * out of 10 cases when you can provide guidance:
@@ -53,7 +37,7 @@ If you work with mature engineers:
   * 1-2 coaching/suggestions
   * 7-8 own solutions
 
-## [ENG] Good Values
+## Good Values
 
 * We care
 * Initiative is rewarded
@@ -68,111 +52,91 @@ If you work with mature engineers:
 
 ## Good engineering manager
 
-* [ENG] https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/
-* [ENG] https://www.banterly.net/2019/01/06/developer-hapiness-and-where-to-find-it/
-* [ENG] https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html?cid=sf01001
-* [RUS] https://habr.com/en/company/lanit/blog/481584/
+* https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/
+* https://www.banterly.net/2019/01/06/developer-hapiness-and-where-to-find-it/
+* https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html?cid=sf01001
 
 ### Discover value/Innovations/creative management
 
-* [ENG] https://iism.org/article/why-are-ceos-failing-software-engineers-56
-* [ENG] http://www.paulgraham.com/makersschedule.html
+* https://iism.org/article/why-are-ceos-failing-software-engineers-56
+* http://www.paulgraham.com/makersschedule.html
 
 ## Good Product Manager
 
-* [RUS] https://habrahabr.ru/company/parallels/blog/333698/
-
 ### Features Prioritization
-
-* [RUS] https://habr.com/post/429404/
 
 ## Documentation
 
-* [ENG] documentation needs to include and be structured around its four different functions: tutorials, how-to guides, technical reference and explanation: https://documentation.divio.com/introduction/
+* documentation needs to include and be structured around its four different functions: tutorials, how-to guides, technical reference and explanation: https://documentation.divio.com/introduction/
 
 ## Retrospectives
 
-* [RUS] https://habrahabr.ru/company/mindbox/blog/347780/
-
 ## Free Day once per week
-
-* [RUS] https://habr.com/en/post/443680/
 
 ## Organization as a product
 
-* [ENG] https://uxdesign.cc/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56
+* https://uxdesign.cc/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56
 
 ## Task prioritization
 
-* [ENG] http://www.elidedbranches.com/2019/05/opp-other-peoples-problems.html
+* http://www.elidedbranches.com/2019/05/opp-other-peoples-problems.html
 
 ## Software
 ### Kanban software
 
-* [ENG] https://hygger.io/
-* [ENG] https://trello.com/
-* [ENG] https://community.taiga.io/t/taiga-30min-setup/170
-* [ENG] https://github.com/plankanban/planka
+* https://hygger.io/
+* https://trello.com/
+* https://community.taiga.io/t/taiga-30min-setup/170
+* https://github.com/plankanban/planka
 
 ### JIRA/Confluence
 #### JIRA/Trello integration
 
-* [ENG] unito.io
+* unito.io
 
 #### JIRA CLI
 
-* [ENG] Introducing Jira CLI: The Missing Command-line Tool for Atlassian Jira: https://medium.com/@ankitpokhrel/introducing-jira-cli-the-missing-command-line-tool-for-atlassian-jira-fe44982cc1de
+* Introducing Jira CLI: The Missing Command-line Tool for Atlassian Jira: https://medium.com/@ankitpokhrel/introducing-jira-cli-the-missing-command-line-tool-for-atlassian-jira-fe44982cc1de
 
 ## Communication
 ### Async communication
 
-* [ENG] https://doist.com/blog/asynchronous-communication/
-
-### Empathy
-
-* [RUS] https://habr.com/en/company/exness/blog/491208/
-
-### Psychology for managers
-
-* [RUS] https://habr.com/en/company/oleg-bunin/blog/473440/
+* https://doist.com/blog/asynchronous-communication/
 
 ### Templates
 #### Writing email
 
-* [ENG] How to Write Email with Military Precision: https://hbr.org/2016/11/how-to-write-email-with-military-precision
+* How to Write Email with Military Precision: https://hbr.org/2016/11/how-to-write-email-with-military-precision
 
 #### Writing farewell messages
 
-* [ENG] How To Write a Formal Farewell Message to Your Boss: https://sg.indeed.com/career-advice/career-development/farewell-message-to-boss
+* How To Write a Formal Farewell Message to Your Boss: https://sg.indeed.com/career-advice/career-development/farewell-message-to-boss
 
 ## Deadlines
 
-* [ENG] http://jatins.gitlab.io/me/why-deadline/
+* http://jatins.gitlab.io/me/why-deadline/
 
-## Focus/pomodoro
-
-* [RUS] https://habr.com/en/company/maxilect/blog/486238/
 
 ## OKRs - Objective Key Results
 
-* [ENG] https://lifeclub.org/books/measure-what-matters-john-doerr-review-summary
+* https://lifeclub.org/books/measure-what-matters-john-doerr-review-summary
 
 ## Organization structure
 
-* [ENG] https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb
+* https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb
 
 ## Coaching and learning
 
-* [ENG] https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/
+* https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/
 
 ### Hanlon’s Razor
 
-* [ENG] https://blog.trello.com/trello-hanlons-razor
+* https://blog.trello.com/trello-hanlons-razor
 
 ### The Feynman Technique - deeply learning and internalizing topics
 
-* [ENG] https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching
+* https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching
 
 ## Teams
 
-* [ENG] Tuckman's Stages of Group Development: https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx
+* Tuckman's Stages of Group Development: https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx

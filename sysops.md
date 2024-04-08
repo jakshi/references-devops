@@ -1,36 +1,30 @@
 ## Linux performance
 
-* [ENG] http://www.brendangregg.com/linuxperf.html
-
-### Profiling
-
-* [RUS] https://habr.com/en/company/first/blog/442738/
-* [ENG] https://jvns.ca/perf-zine.pdf
+* http://www.brendangregg.com/linuxperf.html
 
 ## VPN
 ## Helpers/Easy VPN setup
 
-* [ENG] https://github.com/hwdsl2/setup-ipsec-vpn
-* [ENG] https://github.com/jlund/streisand
+* https://github.com/hwdsl2/setup-ipsec-vpn
+* https://github.com/jlund/streisand
 
 ## Emails
 ### SPF, DKIM, DMARC and e-mail tools
 
-* [RUS] https://habrahabr.ru/company/mailru/blog/315778/
-* [ENG] http://mxtoolbox.com/SuperTool.aspx?action=spf%3ayourdomain.com&run=toolpage
-* [ENG] https://en.wikipedia.org/wiki/Sender_Policy_Framework
-* [ENG] http://stackoverflow.com/questions/28311649/are-sites-without-wildcard-spf-records-vulnerable-to-subdomain-spoofing-attacks
-* [ENG] sa-test@sendmail.net
-* [ENG] 5 Ways to Check Your Sending Reputation: https://sendgrid.com/blog/5-ways-check-sending-reputation/
+* http://mxtoolbox.com/SuperTool.aspx?action=spf%3ayourdomain.com&run=toolpage
+* https://en.wikipedia.org/wiki/Sender_Policy_Framework
+* http://stackoverflow.com/questions/28311649/are-sites-without-wildcard-spf-records-vulnerable-to-subdomain-spoofing-attacks
+* sa-test@sendmail.net
+* 5 Ways to Check Your Sending Reputation: https://sendgrid.com/blog/5-ways-check-sending-reputation/
 
 ### Spam traps
 
-* [ENG] http://blog.mailchimp.com/where-spam-traps-come-from-and-how-they-work/
+* http://blog.mailchimp.com/where-spam-traps-come-from-and-how-they-work/
 
 ### Google Cloud restrictions for SMTP ports
 
 * Google cloud blocks port 25, we need to use 2525 port for google cloud postfix.
-* [ENG] https://cloud.google.com/vpc/docs/firewalls#blockedtraffic
+* https://cloud.google.com/vpc/docs/firewalls#blockedtraffic
 
 ### Microsoft (outlook) smpt servers block lists
 
@@ -54,69 +48,65 @@
 
 ## SSH
 
-* [ENG] https://www.blackmoreops.com/2016/11/08/top-30-ssh-shenanigans/
-* [ENG] https://medium.com/uber-security-privacy/introducing-the-uber-ssh-certificate-authority-4f840839c5cc#.s7j1vkoat
-* [ENG] https://gravitational.com/blog/replace-static-ssh-keys-with-github-oauth/
-* [ENG] https://smallstep.com/blog/diy-single-sign-on-for-ssh/
-* [RUS] https://habr.com/post/435546/
+* https://www.blackmoreops.com/2016/11/08/top-30-ssh-shenanigans/
+* https://medium.com/uber-security-privacy/introducing-the-uber-ssh-certificate-authority-4f840839c5cc#.s7j1vkoat
+* https://gravitational.com/blog/replace-static-ssh-keys-with-github-oauth/
+* https://smallstep.com/blog/diy-single-sign-on-for-ssh/
 
 ## Git
 
-* [ENG] https://jwiegley.github.io/git-from-the-bottom-up/
-* [ENG] https://hackernoon.com/lesser-known-git-commands-151a1918a60#.l48pn1p8i
-* [RUS] https://habrahabr.ru/company/mailru/blog/318508/
+* https://jwiegley.github.io/git-from-the-bottom-up/
+* https://hackernoon.com/lesser-known-git-commands-151a1918a60#.l48pn1p8i
 
 ### How to undo stuff in git
 
-* [ENG] https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
-* [ENG] https://medium.com/@CarrieGuss/how-to-recover-from-a-git-hard-reset-b830b5e3f60c#.353djvmkb
+* https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
+* https://medium.com/@CarrieGuss/how-to-recover-from-a-git-hard-reset-b830b5e3f60c#.353djvmkb
 
 ## Systemd
 
-* [ENG] https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/sect-Managing_Services_with_systemd-Unit_Files.html
-* [ENG] https://fedoramagazine.org/systemd-converting-sysvinit-scripts/
-* [RUS] https://habrahabr.ru/company/centosadmin/blog/315706/
-* [ENG] https://www.linux.com/topic/networking/5-systemd-tools-you-should-start-using-now/
+* https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/sect-Managing_Services_with_systemd-Unit_Files.html
+* https://fedoramagazine.org/systemd-converting-sysvinit-scripts/
+* https://www.linux.com/topic/networking/5-systemd-tools-you-should-start-using-now/
 
 ## Logging
 ### Ownership of nginx log directory and issues around that
 
-* [ENG] http://serverfault.com/questions/639128/nginx-logging-to-access-log-1-instead-of-access-log-logrotate-failing
+* http://serverfault.com/questions/639128/nginx-logging-to-access-log-1-instead-of-access-log-logrotate-failing
 
 ### rsyslog
 
-* [RUS] https://habr.com/en/post/321262/
-* [ENG] http://www.rsyslog.com/doc/master/index.html
-* [ENG] https://github.com/rsyslog/rsyslog/blob/master/ChangeLog
+* http://www.rsyslog.com/doc/master/index.html
+* https://github.com/rsyslog/rsyslog/blob/master/ChangeLog
 
 #### Multiple SSL-TLS remote targets for rsyslog
 
-* [ENG] http://stackoverflow.com/questions/22052111/rsyslog-logging-to-multiple-servers-with-different-tls-configurations
+* http://stackoverflow.com/questions/22052111/rsyslog-logging-to-multiple-servers-with-different-tls-configurations
 
 #### rsyslog rulesets
 
-* [ENG] http://www.rsyslog.com/doc/v8-stable/concepts/multi_ruleset.html
+* http://www.rsyslog.com/doc/v8-stable/concepts/multi_ruleset.html
 
 ## Authentication
 ### 2FA
 
-* [ENG] https://code.google.com/p/google-authenticator-apache-module/wiki/GoogleAuthenticatorApacheModule
-* [ENG] https://factored.readthedocs.org/en/latest/
+* https://code.google.com/p/google-authenticator-apache-module/wiki/GoogleAuthenticatorApacheModule
+* https://factored.readthedocs.org/en/latest/
 
 ### OAuth
 
-* [ENG] https://github.com/bitly/oauth2_proxy
+* https://github.com/bitly/oauth2_proxy
 
 ## AWS
 ### AWS SSO explained 
 
-* [ENG] You only need to call`aws sso login` once for all your profiles: https://ben11kehoe.medium.com/you-only-need-to-call-aws-sso-login-once-for-all-your-profiles-41a334e1b37e
-* [ENG] AWS configuration files, explained: https://ben11kehoe.medium.com/aws-configuration-files-explained-9a7ea7a5b42e
+* You only need to call`aws sso login` once for all your profiles: https://ben11kehoe.medium.com/you-only-need-to-call-aws-sso-login-once-for-all-your-profiles-41a334e1b37e
+* AWS configuration files, explained: https://ben11kehoe.medium.com/aws-configuration-files-explained-9a7ea7a5b42e
 
 
 ### Util to check which instances are covered by reserved instances
 
-* [ENG] https://github.com/balanced-ops/ec2-cost-tools
+* https://github.com/balanced-ops/ec2-cost-tools
 
 #### Install ec2-cost-tools
 
@@ -140,7 +130,7 @@ ec2-costs us-east-1
 
 ### Security
 
-* [ENG] Top 10 security best practices for securing backups in AWS: https://aws.amazon.com/blogs/security/top-10-security-best-practices-for-securing-backups-in-aws/
+* Top 10 security best practices for securing backups in AWS: https://aws.amazon.com/blogs/security/top-10-security-best-practices-for-securing-backups-in-aws/
 
 ### Inventory
 
@@ -157,27 +147,22 @@ ec2-costs us-east-1
 
 ## Sysdig
 
-* [ENG] https://www.wireshark.org/docs/dfref/s/sysdig.html
-* [ENG] https://groups.google.com/forum/#!topic/sysdig/Jblu9qumGH4
-* [ENG] https://github.com/draios/sysdig/wiki/Sysdig-User-Guide
-* [ENG] https://sysdig.com/fascinating-world-linux-system-calls/
-* [ENG] https://wiki.mikejung.biz/Sysdig#Sysdig_Process_and_Thread_Related_Fields
-* [ENG] http://bencane.com/2014/04/18/using-sysdig-to-troubleshoot-like-a-boss/
-* [ENG] http://www.sysdig.org/wiki/sysdig-user-guide/
-* [ENG] http://www.sysdig.org/wiki/sysdig-examples/
+* https://www.wireshark.org/docs/dfref/s/sysdig.html
+* https://groups.google.com/forum/#!topic/sysdig/Jblu9qumGH4
+* https://github.com/draios/sysdig/wiki/Sysdig-User-Guide
+* https://sysdig.com/fascinating-world-linux-system-calls/
+* https://wiki.mikejung.biz/Sysdig#Sysdig_Process_and_Thread_Related_Fields
+* http://bencane.com/2014/04/18/using-sysdig-to-troubleshoot-like-a-boss/
+* http://www.sysdig.org/wiki/sysdig-user-guide/
+* http://www.sysdig.org/wiki/sysdig-examples/
 
 ## EFI
 
-* [ENG] https://habrahabr.ru/post/314412/
-
-## WiFi
-### WiFi CLI
-
-* [RUS] https://habrahabr.ru/post/315960/
+* https://habrahabr.ru/post/314412/
 
 ## Kernel
 
-* [ENG] Which process has PID 0? https://unix.stackexchange.com/questions/83322/which-process-has-pid-0
+* Which process has PID 0? https://unix.stackexchange.com/questions/83322/which-process-has-pid-0
 
 ## Sync
 ### Rsync
