@@ -1,9 +1,8 @@
 # DevOps
 ## What is DevOps
 
-* [ENG] https://theagileadmin.com/what-is-devops/
-* [ENG] What Team Structure is Right for DevOps to Flourish? http://web.devopstopologies.com/
-* [RUS} https://habr.com/en/company/jugru/blog/487958/
+* https://theagileadmin.com/what-is-devops/
+* What Team Structure is Right for DevOps to Flourish? http://web.devopstopologies.com/
 
 ### [ENG] General definition
 DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support. 
@@ -49,27 +48,28 @@ DevOps is also characterized by operations staff making use many of the same tec
 
 ## Blameless culture
 
-* [ENG] Imagine there’s no human error…: https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/
-* [ENG] The infinite hows: https://www.oreilly.com/radar/the-infinite-hows/
+* Imagine there’s no human error…: https://surfingcomplexity.blog/2022/05/30/imagine-theres-no-human-error/
+* The infinite hows: https://www.oreilly.com/radar/the-infinite-hows/
 
 ## Observability/Monitoring
 
-* [ENG] https://github.com/sourcegraph/checkup
-* [ENG] https://www.opsdash.com
-* [ENG] https://cloud.google.com/monitoring/
-* [ENG] https://prometheus.io/
-* [ENG] http://www.servermonitoring.me
-* [ENG] High Performance Open Source Time Series Database & Monitoring Solutions: https://victoriametrics.com/
+* https://github.com/sourcegraph/checkup
+* https://www.opsdash.com
+* https://cloud.google.com/monitoring/
+* https://prometheus.io/
+* http://www.servermonitoring.me
+* High Performance Open Source Time Series Database & Monitoring Solutions: https://victoriametrics.com/
 
 ### Blackbox monitoring
 
-* [ENG] https://statuscake.com
-* [ENG] https://www.site24x7.com
+* https://statuscake.com
+* https://www.site24x7.com
 
 ### Centralized logging
 
-* [ENG] ChaosSearch: https://www.chaossearch.io/pricing
-* [ENG] Logz.io: https://logz.io/
+* ChaosSearch: https://www.chaossearch.io/pricing
+* Logz.io: https://logz.io/
+* Leveraging Amazon S3 with Athena for Cost Effective Log Management: https://autify.com/blog/optimizing-cloud-application-log-management/
 
 ## CI/CD
 ### MLOps
@@ -83,42 +83,41 @@ DevOps is also characterized by operations staff making use many of the same tec
 ## Mac OS X
 ### Configure mac os x command line prompt
 
-* [ENG] https://www.kirsle.net/wizards/ps1.html
-* [ENG] http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/
+* https://www.kirsle.net/wizards/ps1.html
+* http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/
 
 ### e2fs on mac os x
 
-* [ENG] https://www.paragon-software.com/home/extfs-mac/
+* https://www.paragon-software.com/home/extfs-mac/
 
 ### upgrading bash on mac os x
 
-* [ENG] https://itnext.io/upgrading-bash-on-macos-7138bd1066ba
+* https://itnext.io/upgrading-bash-on-macos-7138bd1066ba
 
 ### brew tips and tricks
 
-* [ENG] https://stackoverflow.com/questions/3987683/homebrew-install-specific-version-of-formula?noredirect=1&lq=1
-* [ENG] https://zoltanaltfatter.com/2017/09/07/Install-a-specific-version-of-formula-with-homebrew/
+* https://stackoverflow.com/questions/3987683/homebrew-install-specific-version-of-formula?noredirect=1&lq=1
+* https://zoltanaltfatter.com/2017/09/07/Install-a-specific-version-of-formula-with-homebrew/
 
 ### HotKeys
 
-* [RUS] https://geektimes.ru/post/278664/
-* [ENG] https://pqrs.org/osx/karabiner/
+* https://pqrs.org/osx/karabiner/
 
 ### Automation
 
-* [ENG] https://github.com/Hammerspoon/hammerspoon
+* https://github.com/Hammerspoon/hammerspoon
 
 ## Infrastructure as a code (IaaC)
 ### Terraform
 
-* [ENG] https://github.com/coinbase/geoengineer
-* [ENG] https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code
-* [ENG] https://github.com/contino/terraform-best-practice
+* https://github.com/coinbase/geoengineer
+* https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code
+* https://github.com/contino/terraform-best-practice
 
 #### Terraform modules
 
-* [ENG] Module Sources: https://developer.hashicorp.com/terraform/language/modules/sources#github
-* [ENG] Using Private Git Repositories as Terraform Modules: https://wahlnetwork.com/2020/08/11/using-private-git-repositories-as-terraform-modules/
+* Module Sources: https://developer.hashicorp.com/terraform/language/modules/sources#github
+* Using Private Git Repositories as Terraform Modules: https://wahlnetwork.com/2020/08/11/using-private-git-repositories-as-terraform-modules/
 
 #### Terraform run by developers
 
@@ -127,70 +126,60 @@ DevOps is also characterized by operations staff making use many of the same tec
 
 #### Capturing infrastructure
 
-* [ENG] https://github.com/dtan4/terraforming
-* [ENG] https://github.com/GoogleCloudPlatform/terraformer
+* https://github.com/dtan4/terraforming
+* https://github.com/GoogleCloudPlatform/terraformer
 
 ### SaltStack (Salt)
 
-* [ENG] Minion did not retrun. [No response]: https://www.reddit.com/r/saltstack/comments/12kzqon/minion_did_not_retrun_no_response/
+* Minion did not retrun. [No response]: https://www.reddit.com/r/saltstack/comments/12kzqon/minion_did_not_retrun_no_response/
 
 ## Docker
 ### Security
 
-* [RUS] https://habrahabr.ru/post/333402/
-
 ## Chatops
 ### Hubot
 
-* [ENG] https://hubot.github.com/docs/scripting/
-* [ENG] https://gist.github.com/schisamo/46eafba27d43c4a1e026
+* https://hubot.github.com/docs/scripting/
+* https://gist.github.com/schisamo/46eafba27d43c4a1e026
 
 ## Slack
 ### integrations and libraries for different languages
 
-* [ENG] https://api.slack.com/community
+* https://api.slack.com/community
 
 ## Hugo
 
-* [ENG] http://rcoedo.com/post/hugo-static-site-generator/
+* http://rcoedo.com/post/hugo-static-site-generator/
 
 ## Kubernetes
 
-* [ENG] https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab
-* [ENG] https://blog.openai.com/scaling-kubernetes-to-2500-nodes/
-* [RUS] https://habr.com/company/jugru/blog/416161/
-* [ENG] How to Pass a Configuration File to a Kubernetes Pod: https://towardsdatascience.com/how-to-pass-a-configuration-file-to-a-kubernetes-pod-61c1bcd286a5
+* https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab
+* https://blog.openai.com/scaling-kubernetes-to-2500-nodes/
+* How to Pass a Configuration File to a Kubernetes Pod: https://towardsdatascience.com/how-to-pass-a-configuration-file-to-a-kubernetes-pod-61c1bcd286a5
 
 ### Cost management
 
-* [ENG] Kubecost | Kubernetes cost monitoring and management: https://www.kubecost.com/
+* Kubecost | Kubernetes cost monitoring and management: https://www.kubecost.com/
 
 ### Tools
 
-* [RUS] https://habr.com/company/mailru/blog/425343/
-* [RUS] https://habr.com/company/flant/blog/426985/
-
 ### 0-downtime deployment
-
-* [RUS] https://habr.com/en/company/flant/blog/489994/
 
 ### DNS delays
 
-* [RUS] https://habr.com/en/post/503032/
-
 ### Networking
 
-* [ENG] https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
+* https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
 
 ### CPU throttling
 
-* [ENG] https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/
+* https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/
 
 ### Autoscaling
 
-* [ENG] https://learnk8s.io/kubernetes-autoscaling-strategies#exploring-pod-autoscaling-lead-time
+* https://learnk8s.io/kubernetes-autoscaling-strategies#exploring-pod-autoscaling-lead-time
 
 ## Git/Github
 
-* [ENG] How To Work With Multiple Github Accounts on a single Machine: https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3
-* [ENG] Git mistakes from Julia Evans: https://gist.github.com/jvns/f7d2db163298423751a9d1a823d7c7c1
+* How To Work With Multiple Github Accounts on a single Machine: https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3
+* Git mistakes from Julia Evans: https://gist.github.com/jvns/f7d2db163298423751a9d1a823d7c7c1
