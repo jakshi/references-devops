@@ -80,3 +80,7 @@
 ### DNS scanning
 
 * bruteforce and resolve the subdomains with wildcard handling support: https://github.com/projectdiscovery/shuffledns
+
+## Kubernetes
+
+* kube-score is a tool that performs static code analysis of your Kubernetes object definitions: https://github.com/zegl/kube-score
