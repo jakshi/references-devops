@@ -84,3 +84,8 @@
 ## Kubernetes
 
 * kube-score is a tool that performs static code analysis of your Kubernetes object definitions: https://github.com/zegl/kube-score
+
+## Containers
+
+* Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including OCI and docker): https://github.com/quay/clair
+* Grype A vulnerability scanner for container images and filesystems: https://github.com/anchore/grype
