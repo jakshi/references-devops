@@ -134,7 +134,9 @@ DevOps is also characterized by operations staff making use many of the same tec
 * Minion did not retrun. [No response]: https://www.reddit.com/r/saltstack/comments/12kzqon/minion_did_not_retrun_no_response/
 
 ## Docker
-### Security
+### Images
+
+* dive - A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image: https://github.com/wagoodman/dive
 
 ## Chatops
 ### Hubot
