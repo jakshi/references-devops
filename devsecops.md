@@ -89,3 +89,7 @@
 
 * Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including OCI and docker): https://github.com/quay/clair
 * Grype A vulnerability scanner for container images and filesystems: https://github.com/anchore/grype
+
+## AWS
+
+* a CLI tool for securely accessing your DB instances and other AWS resources in private networks at almost no cost: https://github.com/basti-app/basti
