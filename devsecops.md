@@ -90,6 +90,10 @@
 * Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including OCI and docker): https://github.com/quay/clair
 * Grype A vulnerability scanner for container images and filesystems: https://github.com/anchore/grype
 
+## Hardware
+
+* BootTerm is a simple, reliable and powerful terminal designed to ease connection to ephemeral serial ports as found on various SBCs, and typically USB-based ones: https://github.com/wtarreau/bootterm
+
 ## AWS
 
 * a CLI tool for securely accessing your DB instances and other AWS resources in private networks at almost no cost: https://github.com/basti-app/basti
