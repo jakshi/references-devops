@@ -122,6 +122,10 @@
 
 * task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make: https://taskfile.dev/
 
+## Documentation
+
+* Build man pages from Markdown: https://github.com/apjanke/ronn-ng
+
 # Security
 
 * TruffleHog - Find leaked credentials: https://github.com/trufflesecurity/trufflehog
