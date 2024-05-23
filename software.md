@@ -144,3 +144,4 @@
 * [sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP](https://github.com/mozilla/sops)
 * theHarvester is a simple to use tool gathers names, emails, IPs, subdomains, and URLs by using multiple public resources: https://github.com/laramies/theHarvester
 * Python module and command line parser for SPF and DMARC DNS records: https://domainaware.github.io/checkdmarc/
+* Hunt down social media accounts by username: https://sherlock-project.github.io/
