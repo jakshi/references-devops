@@ -8,6 +8,10 @@
 
 * https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
 
+## CUPID - for joyful coding
+
+* CUPID - for joyful coding: https://dannorth.net/cupid-for-joyful-coding/ 
+
 ## Code Review
 
 * https://google.github.io/eng-practices/review/reviewer/
