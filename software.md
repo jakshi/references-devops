@@ -35,16 +35,11 @@
 * Stream changes from your database: https://debezium.io/
 * kill-mysql-query interactively shows long running queries in MySQL database and provides option to kill them one by one: https://github.com/mugli/go-kill-mysql-query
 
-
 ## Images
 
 * fast and secure standalone server for resizing and converting remote images: https://github.com/imgproxy/imgproxy
 
-## Network
-
-* Ethr is a cross platform network performance measurement tool: https://github.com/microsoft/ethr
-
-### Cloudflare
+## Cloudflare
 
 * cloudflare-python - Using the CloudFlare API via Python + Cloudflare API CLI wrapper: https://github.com/cloudflare/python-cloudflare
 
@@ -81,6 +76,11 @@
 ### ChromeOS
 
 * ChromeOS Flex The cloud-first, easy-to-manage, and fast operating system for PCs and Macs: https://www.neverware.com/#intro-flex
+
+# NetOps
+
+* Ethr is a cross platform network performance measurement tool: https://github.com/microsoft/ethr
+* See through all BGP data with a monocle: https://github.com/bgpkit/monocle
 
 # DevOps
 ## Infrastructure as a code
@@ -126,7 +126,7 @@
 
 * Build man pages from Markdown: https://github.com/apjanke/ronn-ng
 
-# Security
+# SecOps
 
 * TruffleHog - Find leaked credentials: https://github.com/trufflesecurity/trufflehog
 * easy to use, all-in-one solution for security researchers: https://github.com/bettercap/bettercap
