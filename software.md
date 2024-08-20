@@ -25,6 +25,7 @@
 * Paralus is a free, open source tool that enables controlled, audited access to Kubernetes infrastructure for your users, user groups, and services. Ships as a GUI, API, and CLI: https://github.com/paralus/paralus
 * RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name: 
 * Kubernetes Resource Recommendations Based on Historical Data: https://github.com/robusta-dev/krr
+* Kubernetes Resource Recommendations Based on Historical Data: https://github.com/FairwindsOps/goldilocks
 
 ## Data and Databases
 
