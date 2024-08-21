@@ -115,6 +115,8 @@
 
 * IceCream — Never use print() to debug again: https://github.com/gruns/icecream
 * Basic Logging Tutorial: https://docs.python.org/3/howto/logging.html#logging-basic-tutorial
+* faulthandler: https://github.com/python/cpython/blob/main/Doc/library/faulthandler.rst
+* py-spy: https://github.com/benfred/py-spy
 
 ### Packaging
 
