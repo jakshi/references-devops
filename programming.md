@@ -107,6 +107,9 @@
 * Developer Headaches on macOS Catalina: Xcode, Homebrew, Gems: https://faun.pub/macos-catalina-xcode-homebrew-gems-developer-headaches-cf7b1edf10b7
 
 ## Python
+
+* Python 3.12 (packages) Readiness: https://pyreadiness.org/3.12/ 
+
 ### CLI
 
 * https://github.com/google/python-fire/blob/master/docs/guide.md

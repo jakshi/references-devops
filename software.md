@@ -147,3 +147,8 @@
 * theHarvester is a simple to use tool gathers names, emails, IPs, subdomains, and URLs by using multiple public resources: https://github.com/laramies/theHarvester
 * Python module and command line parser for SPF and DMARC DNS records: https://domainaware.github.io/checkdmarc/
 * Hunt down social media accounts by username: https://sherlock-project.github.io/
+
+# Presentations for developers
+
+* Sophisticated developers presentations: Presentation Slides for Developers: https://sli.dev/
+* More simple presentations: https://github.com/marp-team/marp-cli
