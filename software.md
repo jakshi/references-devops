@@ -27,6 +27,10 @@
 * Kubernetes Resource Recommendations Based on Historical Data: https://github.com/robusta-dev/krr
 * Kubernetes Resource Recommendations Based on Historical Data: https://github.com/FairwindsOps/goldilocks
 
+### Costs monitoring
+
+* OpenCost — your favorite open source cost monitoring tool for Kubernetes and cloud spend: https://github.com/opencost/opencost
+
 ## Data and Databases
 
 * distributed dynamo layer for Redis and Memcached: https://github.com/Netflix/dynomite
