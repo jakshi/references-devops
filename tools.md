@@ -21,6 +21,7 @@
 
 ## kubernetes/k8s
 
+* Kubetools - A Curated List of Kubernetes Tools: https://collabnix.github.io/kubetools/
 * k8s configs management: https://kubecm.cloud/#/en-us/README
 * Paralus is a free, open source tool that enables controlled, audited access to Kubernetes infrastructure for your users, user groups, and services. Ships as a GUI, API, and CLI: https://github.com/paralus/paralus
 * RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name: 
