@@ -153,11 +153,12 @@ DevOps is also characterized by operations staff making use many of the same tec
 
 * http://rcoedo.com/post/hugo-static-site-generator/
 
-## Kubernetes
+## Kubernetes/k8s
 
 * https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab
 * https://blog.openai.com/scaling-kubernetes-to-2500-nodes/
 * How to Pass a Configuration File to a Kubernetes Pod: https://towardsdatascience.com/how-to-pass-a-configuration-file-to-a-kubernetes-pod-61c1bcd286a5
+* Kubernetes API - which fields are updatable and other questions: https://kubernetes.io/docs/reference/kubernetes-api/
 
 ### Cost management
 
