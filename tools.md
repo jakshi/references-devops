@@ -56,6 +56,7 @@
 * A lightweight, ultra-fast tool for building observability pipelines: https://vector.dev/
 * VictoriaMetrics is a fast, cost-effective and scalable monitoring solution and time series database: https://github.com/VictoriaMetrics/VictoriaMetrics
 * Uptime Kuma is an easy-to-use self-hosted monitoring tool: https://github.com/louislam/uptime-kuma
+* Grafana Grizzly is a command line tool that allows you to manage your observability resources with code: https://grafana.github.io/grizzly/what-is-grizzly/
 
 ## Everyday tools, utils, terminal, console
 

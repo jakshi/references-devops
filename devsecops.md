@@ -31,6 +31,11 @@
 
 * Why you should avoid Sealed Secrets in your GitOps deployment: https://dnastacio.medium.com/why-you-should-avoid-sealed-secrets-in-your-gitops-deployment-e50131d360dd
 
+## Git
+
+* File encryption in Git Repository: https://stackoverflow.com/questions/48330742/file-encryption-in-git-repository
+    * A script to configure transparent encryption of sensitive files stored in a Git repository: https://github.com/elasticdog/transcrypt
+
 ## Jenkins secrets
 
 * Accessing and dumping Jenkins credentials: https://www.codurance.com/publications/2019/05/30/accessing-and-dumping-jenkins-credentials
