@@ -5,3 +5,7 @@
 # BigQuery
 
 * BigQuery emulator server implemented in Go: https://github.com/goccy/bigquery-emulator
+
+# PostgreSQL
+
+* Awesome Postgres: https://github.com/dhamaniasad/awesome-postgres
