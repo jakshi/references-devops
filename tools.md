@@ -41,6 +41,7 @@
   * https://github.com/zendesk/maxwell/blob/master/README.md
 * Stream changes from your database: https://debezium.io/
 * kill-mysql-query interactively shows long running queries in MySQL database and provides option to kill them one by one: https://github.com/mugli/go-kill-mysql-query
+* Atlas is a language-independent tool for managing and migrating database schemas: https://atlasgo.io/docs
 
 ## Images
 
