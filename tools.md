@@ -6,6 +6,7 @@
 # API/Automation
 
 * Goexpose is lightweight json api server that maps url path to various tasks: https://github.com/phonkee/goexpose
+* Mockoon offers tons of features that makes API mocking a breeze: https://mockoon.com/features/
 
 ## AWS
 ### Inventory
@@ -135,6 +136,12 @@
 
 * Build man pages from Markdown: https://github.com/apjanke/ronn-ng
 
+## Programming Languages runtime management
+
+* The Multiple Runtime Version Manager: https://asdf-vm.com/
+* The front-end to your dev env: https://mise.jdx.dev/
+
+
 # SecOps
 
 * TruffleHog - Find leaked credentials: https://github.com/trufflesecurity/trufflehog
@@ -159,3 +166,7 @@
 
 * Sophisticated developers presentations: Presentation Slides for Developers: https://sli.dev/
 * More simple presentations: https://github.com/marp-team/marp-cli
+
+# ML/AI/LLM/Data science
+
+* Call all LLM APIs using the OpenAI format - LiteLLM Proxy Server: https://github.com/BerriAI/litellm?tab=readme-ov-file
