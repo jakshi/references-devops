@@ -170,3 +170,8 @@
 # ML/AI/LLM/Data science
 
 * Call all LLM APIs using the OpenAI format - LiteLLM Proxy Server: https://github.com/BerriAI/litellm?tab=readme-ov-file
+* Open WebUI - A web-based user interface for LLMs: https://docs.openwebui.com
+
+# Python
+
+* C++ python bytecode disassembler and decompiler: https://github.com/zrax/pycdc
