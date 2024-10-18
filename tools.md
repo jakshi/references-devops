@@ -171,3 +171,8 @@
 # ML/AI/LLM/Data science
 
 * Call all LLM APIs using the OpenAI format - LiteLLM Proxy Server: https://github.com/BerriAI/litellm?tab=readme-ov-file
+
+# Incident management/on-call
+
+* OneUptime is the complete open-source observability platform: https://github.com/OneUptime/oneuptime?tab=readme-ov-file
+* Developer-friendly incident response with brilliant Slack integration: https://github.com/grafana/oncall
