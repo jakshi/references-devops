@@ -8,6 +8,7 @@
 
 * Goexpose is lightweight json api server that maps url path to various tasks: https://github.com/phonkee/goexpose
 * Mockoon offers tons of features that makes API mocking a breeze: https://mockoon.com/features/
+* CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries: https://github.com/kellyjonbrazil/jc
 
 ## AWS
 ### Inventory
@@ -172,6 +173,11 @@
 
 * Call all LLM APIs using the OpenAI format - LiteLLM Proxy Server: https://github.com/BerriAI/litellm?tab=readme-ov-file
 * Open WebUI - A web-based user interface for LLMs: https://docs.openwebui.com
+
+# Incident management/on-call
+
+* OneUptime is the complete open-source observability platform: https://github.com/OneUptime/oneuptime?tab=readme-ov-file
+* Developer-friendly incident response with brilliant Slack integration: https://github.com/grafana/oncall
 
 # Python
 
