@@ -2,6 +2,7 @@
 ## Licensing
 
 * Choose an open source license: https://choosealicense.com/licenses/
+*  Simple license header checker and formatter, in multiple distribution forms: https://github.com/korandoru/hawkeye
 
 # API/Automation
 
