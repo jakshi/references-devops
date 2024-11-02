@@ -74,7 +74,6 @@
 * Fancy cat for Markdown (that is, CommonMark): https://github.com/lunaryorn/mdcat
 * The minimal, blazing-fast, and infinitely customizable prompt for any shell: https://starship.rs/
 * sd is an intuitive find & replace CLI: https://github.com/chmln/sd
-* It is tool to enable writing one file scripts in languages that require compilation, dependencies fetching or preprocessing: https://github.com/igor-petruk/scriptisto
 * sh is a full-fledged subprocess replacement for Python 2, Python 3, PyPy and PyPy3 that allows you to call any program as if it were a function: https://github.com/amoffat/sh
 * Vim JIRA Atlassian: Create, Update and Follow Along Jira Issues Actively Without Leaving Vim! https://github.com/n0v1c3/vira
 * JiraCLI - Feature-rich Interactive Jira Command Line: https://github.com/ankitpokhrel/jira-cli
@@ -127,9 +126,10 @@
 * [Complete TUI (terminal user interface) for LDAP](https://github.com/Macmod/godap)
 
 # Programming
-## Scripting in compiled languages
+## Scripting 
 
 * Scriptisto - is tool to enable writing one file scripts in languages that require compilation, dependencies fetching or preprocessing: https://github.com/igor-petruk/scriptisto
+* Run Rust files and expressions as scripts without any setup or compilation step: https://rust-script.org/ 
 
 ## SQL
 
@@ -138,6 +138,8 @@
 ## Task managers
 
 * task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make: https://taskfile.dev/
+* mask is a CLI task runner which is defined by a simple markdown file: https://github.com/jacobdeichert/mask
+* 🤖 Just a command runner: https://github.com/casey/just
 
 ## Documentation
 
