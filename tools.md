@@ -30,6 +30,7 @@
 * RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name: 
 * Kubernetes Resource Recommendations Based on Historical Data: https://github.com/robusta-dev/krr
 * Kubernetes Resource Recommendations Based on Historical Data: https://github.com/FairwindsOps/goldilocks
+* tool for efficient management of k0s Kubernetes clusters: https://github.com/k0sproject/k0smotron
 
 ### Costs monitoring
 
