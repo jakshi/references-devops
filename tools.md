@@ -59,13 +59,14 @@
 
 * cloudflare-python - Using the CloudFlare API via Python + Cloudflare API CLI wrapper: https://github.com/cloudflare/python-cloudflare
 
-## Monitoring
+## Monitoring/Observability
 
 * EaseProbe is a simple, standalone, and lightWeight tool that can do health/status checking, written in Go: https://github.com/megaease/easeprobe
 * A lightweight, ultra-fast tool for building observability pipelines: https://vector.dev/
 * VictoriaMetrics is a fast, cost-effective and scalable monitoring solution and time series database: https://github.com/VictoriaMetrics/VictoriaMetrics
 * Uptime Kuma is an easy-to-use self-hosted monitoring tool: https://github.com/louislam/uptime-kuma
 * Grafana Grizzly is a command line tool that allows you to manage your observability resources with code: https://grafana.github.io/grizzly/what-is-grizzly/
+* OpenObserve (O2 for short) is a cloud-native observability platform: https://github.com/openobserve/openobserve
 
 ## Everyday tools, utils, terminal, console
 
