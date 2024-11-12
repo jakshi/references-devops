@@ -174,9 +174,11 @@ DevOps is also characterized by operations staff making use many of the same tec
 
 * https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
 
-### CPU throttling
+### CPU throttling/CPU Limits
 
 * https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/
+* https://thenewstack.io/how-kubernetes-requests-and-limits-really-work/
+* https://thenewstack.io/how-k8s-cpu-requests-and-limits-actually-work-chapter-2/
 
 ### Autoscaling
 
