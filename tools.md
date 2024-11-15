@@ -68,6 +68,8 @@
 * Uptime Kuma is an easy-to-use self-hosted monitoring tool: https://github.com/louislam/uptime-kuma
 * Grafana Grizzly is a command line tool that allows you to manage your observability resources with code: https://grafana.github.io/grizzly/what-is-grizzly/
 * OpenObserve (O2 for short) is a cloud-native observability platform: https://github.com/openobserve/openobserve
+* Open source APM: OpenTelemetry traces, metrics, and logs: https://github.com/uptrace/uptrace
+* Application performance monitor tool for distributed systems: https://skywalking.apache.org/
 
 ## Everyday tools, utils, terminal, console
 
