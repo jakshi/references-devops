@@ -70,6 +70,7 @@
 * OpenObserve (O2 for short) is a cloud-native observability platform: https://github.com/openobserve/openobserve
 * Open source APM: OpenTelemetry traces, metrics, and logs: https://github.com/uptrace/uptrace
 * Application performance monitor tool for distributed systems: https://skywalking.apache.org/
+* SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application: https://github.com/SigNoz/signoz
 
 ## Everyday tools, utils, terminal, console
 
