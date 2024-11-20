@@ -36,7 +36,7 @@
 
 * OpenCost — your favorite open source cost monitoring tool for Kubernetes and cloud spend: https://github.com/opencost/opencost
 
-## Data and Databases
+## Data and Databases(DBs)
 
 * distributed dynamo layer for Redis and Memcached: https://github.com/Netflix/dynomite
 * data-diff is a command-line tool and Python library to efficiently diff rows across two different databases: https://github.com/datafold/data-diff
@@ -51,6 +51,7 @@
 * Atlas is a language-independent tool for managing and migrating database schemas: https://atlasgo.io/docs
 *  🚀 A lightweight, framework-agnostic database migration tool: https://github.com/amacneil/dbmate
 *  Database migrations. CLI and Golang library: https://github.com/golang-migrate/migrate
+*  PostgreSQL zero-downtime migrations made easy:https://github.com/xataio/pgroll
 
 ## Images
 
