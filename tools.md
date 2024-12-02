@@ -187,6 +187,7 @@
 * Call all LLM APIs using the OpenAI format - LiteLLM Proxy Server: https://github.com/BerriAI/litellm?tab=readme-ov-file
 * Open WebUI - A web-based user interface for LLMs: https://docs.openwebui.com
 * Semantic Router is a superfast decision-making layer for your LLMs and agents: https://github.com/aurelio-labs/semantic-router
+* Pack entire repository in LLM friendly format: https://github.com/yamadashy/repomix
 
 # Incident management/on-call
 
