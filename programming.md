@@ -168,3 +168,7 @@
 ### Memory safety
 
 * Safety and Soundness in Rust: https://jacko.io/safety_and_soundness.html
+
+## Testing/Tests/QA
+
+* Testcontainers is an open source library for providing throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container: https://testcontainers.com/?language=python
