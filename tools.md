@@ -69,9 +69,13 @@
 * Uptime Kuma is an easy-to-use self-hosted monitoring tool: https://github.com/louislam/uptime-kuma
 * Grafana Grizzly is a command line tool that allows you to manage your observability resources with code: https://grafana.github.io/grizzly/what-is-grizzly/
 * OpenObserve (O2 for short) is a cloud-native observability platform: https://github.com/openobserve/openobserve
-* Open source APM: OpenTelemetry traces, metrics, and logs: https://github.com/uptrace/uptrace
 * Application performance monitor tool for distributed systems: https://skywalking.apache.org/
 * SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application: https://github.com/SigNoz/signoz
+
+### APM
+
+* Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures: https://skywalking.apache.org/
+* Open source APM: OpenTelemetry traces, metrics, and logs: https://github.com/uptrace/uptrace
 
 ## Everyday tools, utils, terminal, console
 
@@ -124,6 +128,7 @@
 ## CI/CD
 
 * Earthly is a super simple CI/CD framework: https://docs.earthly.dev/
+* Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only: https://github.com/pipelight/pipelight
 
 # SysOps
 
