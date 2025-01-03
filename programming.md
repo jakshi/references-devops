@@ -172,3 +172,8 @@
 ## Testing/Tests/QA
 
 * Testcontainers is an open source library for providing throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container: https://testcontainers.com/?language=python
+
+## UI/User interface
+### GoLang
+
+* Create beautiful applications using Go: https://github.com/wailsapp/wails
