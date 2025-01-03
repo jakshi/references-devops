@@ -31,6 +31,7 @@
 * Kubernetes Resource Recommendations Based on Historical Data: https://github.com/robusta-dev/krr
 * Kubernetes Resource Recommendations Based on Historical Data: https://github.com/FairwindsOps/goldilocks
 * tool for efficient management of k0s Kubernetes clusters: https://github.com/k0sproject/k0smotron
+* Kubernetes Virtualization API and runtime in order to define and manage virtual machines: https://github.com/kubevirt/kubevirt
 
 ### Costs monitoring
 
