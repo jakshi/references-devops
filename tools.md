@@ -46,6 +46,7 @@
   * https://github.com/zendesk/maxwell/blob/master/README.md
 * Stream changes from your database: https://debezium.io/
 * kill-mysql-query interactively shows long running queries in MySQL database and provides option to kill them one by one: https://github.com/mugli/go-kill-mysql-query
+* FoundationDB - the open source, distributed, transactional key-value store: https://github.com/apple/foundationdb/
 
 ### Migrations
 
