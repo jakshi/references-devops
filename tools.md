@@ -4,7 +4,7 @@
 * Choose an open source license: https://choosealicense.com/licenses/
 *  Simple license header checker and formatter, in multiple distribution forms: https://github.com/korandoru/hawkeye
 
-# API/Automation
+## API/Automation
 
 * Goexpose is lightweight json api server that maps url path to various tasks: https://github.com/phonkee/goexpose
 * Mockoon offers tons of features that makes API mocking a breeze: https://mockoon.com/features/
@@ -156,6 +156,16 @@
 * The Multiple Runtime Version Manager: https://asdf-vm.com/
 * The front-end to your dev env: https://mise.jdx.dev/
 
+# SRE
+## Incident management/on-call
+
+* OneUptime is the complete open-source observability platform: https://github.com/OneUptime/oneuptime?tab=readme-ov-file
+* Developer-friendly incident response with brilliant Slack integration: https://github.com/grafana/oncall
+
+## Workflow management
+
+* Workflow management - Temporal: https://github.com/temporalio/temporal
+* Workflow automation platform with native AI capabilities: https://github.com/n8n-io/n8n
 
 # SecOps
 
@@ -188,11 +198,6 @@
 * Open WebUI - A web-based user interface for LLMs: https://docs.openwebui.com
 * Semantic Router is a superfast decision-making layer for your LLMs and agents: https://github.com/aurelio-labs/semantic-router
 * Pack entire repository in LLM friendly format: https://github.com/yamadashy/repomix
-
-# Incident management/on-call
-
-* OneUptime is the complete open-source observability platform: https://github.com/OneUptime/oneuptime?tab=readme-ov-file
-* Developer-friendly incident response with brilliant Slack integration: https://github.com/grafana/oncall
 
 # Python
 
