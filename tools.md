@@ -55,6 +55,10 @@
 *  Database migrations. CLI and Golang library: https://github.com/golang-migrate/migrate
 *  PostgreSQL zero-downtime migrations made easy:https://github.com/xataio/pgroll
 
+## Messaging and Streaming
+
+* Iggy is the persistent message streaming platform written in Rust: https://github.com/iggy-rs/iggy
+
 ## Images
 
 * fast and secure standalone server for resizing and converting remote images: https://github.com/imgproxy/imgproxy
