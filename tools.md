@@ -204,6 +204,7 @@
 * Open WebUI - A web-based user interface for LLMs: https://docs.openwebui.com
 * Semantic Router is a superfast decision-making layer for your LLMs and agents: https://github.com/aurelio-labs/semantic-router
 * Pack entire repository in LLM friendly format: https://github.com/yamadashy/repomix
+* Langfuse: Open Source LLM Engineering Platform: https://github.com/langfuse/langfuse
 
 # Python
 
