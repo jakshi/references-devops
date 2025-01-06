@@ -80,6 +80,11 @@
 * Application performance monitor tool for distributed systems: https://skywalking.apache.org/
 * SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application: https://github.com/SigNoz/signoz
 
+### Alerts
+
+* Alerta - tool used to consolidate and de-duplicate alerts from multiple sources for quick ‘at-a-glance’ visualisation: https://docs.alerta.io/
+* Swiss-knife for managing alerts/events at scale: https://www.keephq.dev/
+
 ### APM
 
 * Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures: https://skywalking.apache.org/
