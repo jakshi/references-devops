@@ -175,3 +175,7 @@ ec2-costs us-east-1
 * BorgBackup (short: Borg) is a deduplicating backup program. https://borgbackup.readthedocs.io/en/stable/index.html
 * borgmatic is simple, configuration-driven backup software for servers and workstations. https://projects.torsion.org/borgmatic-collective/borgmatic
 * Restic is a fast and secure backup program. https://restic.readthedocs.io/en/latest/010_introduction.html
+
+# Software updates
+
+* S.U.P.E.R.M.A.N. optimizes the macOS software update experience: https://github.com/Macjutsu/super
