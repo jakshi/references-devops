@@ -6,3 +6,7 @@
 # AI Assistants
 
 * Phidata is a framework for building AI Assistants with memory, knowledge and tools: https://docs.phidata.com/introduction
+
+# Analytics engines 
+
+* Analytics DBs benchmark: https://benchmark.clickhouse.com/
