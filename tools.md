@@ -90,6 +90,10 @@
 * Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures: https://skywalking.apache.org/
 * Open source APM: OpenTelemetry traces, metrics, and logs: https://github.com/uptrace/uptrace
 
+### Continuous profiling
+
+* Perforator is a modern profiling tool designed for large data centers: https://perforator.tech/docs/en/
+
 ## Everyday tools, utils, terminal, console
 
 * Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration: https://ohmyz.sh/
