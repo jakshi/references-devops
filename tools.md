@@ -222,6 +222,10 @@
 * Pack entire repository in LLM friendly format: https://github.com/yamadashy/repomix
 * Langfuse: Open Source LLM Engineering Platform: https://github.com/langfuse/langfuse
 
+## AI/LLM Development Tools
+
+* The open source Cursor for Designers. Design directly in your live React app and publish your changes to code: https://github.com/onlook-dev/onlook
+
 # Python
 
 * C++ python bytecode disassembler and decompiler: https://github.com/zrax/pycdc
