@@ -38,6 +38,10 @@
 
 * OpenCost — your favorite open source cost monitoring tool for Kubernetes and cloud spend: https://github.com/opencost/opencost
 
+### Light-weight VMs on Kubernetes
+
+* Kata Containers: https://github.com/kata-containers/kata-containers
+
 ## Data and Databases(DBs)
 
 * distributed dynamo layer for Redis and Memcached: https://github.com/Netflix/dynomite
