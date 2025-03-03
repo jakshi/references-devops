@@ -131,6 +131,9 @@
 
 # DevOps
 ## Infrastructure as a code
+
+* ytt is a templating tool that understands YAML structure: https://github.com/carvel-dev/ytt
+
 ### Terraform
 
 * Terraformer - A CLI tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform): https://github.com/GoogleCloudPlatform/terraformer
@@ -145,6 +148,7 @@
 
 * AWX provides a web-based user interface, REST API, and task engine built on top of Ansible: https://github.com/ansible/awx
 * Modern UI for Ansible: https://www.ansible-semaphore.com/
+
 
 ## CI/CD
 
