@@ -56,9 +56,13 @@ DevOps is also characterized by operations staff making use many of the same tec
 * https://github.com/sourcegraph/checkup
 * https://www.opsdash.com
 * https://cloud.google.com/monitoring/
-* https://prometheus.io/
 * http://www.servermonitoring.me
 * High Performance Open Source Time Series Database & Monitoring Solutions: https://victoriametrics.com/
+
+### Prometheus
+
+* https://prometheus.io/
+* PromQL Cheat Sheet: https://promlabs.com/promql-cheat-sheet/
 
 ### Blackbox monitoring
 
