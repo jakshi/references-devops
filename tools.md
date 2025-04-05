@@ -4,7 +4,7 @@
 * Choose an open source license: https://choosealicense.com/licenses/
 *  Simple license header checker and formatter, in multiple distribution forms: https://github.com/korandoru/hawkeye
 
-# API/Automation
+## API/Automation
 
 * Goexpose is lightweight json api server that maps url path to various tasks: https://github.com/phonkee/goexpose
 * Mockoon offers tons of features that makes API mocking a breeze: https://mockoon.com/features/
@@ -31,10 +31,16 @@
 * Kubernetes Resource Recommendations Based on Historical Data: https://github.com/robusta-dev/krr
 * Kubernetes Resource Recommendations Based on Historical Data: https://github.com/FairwindsOps/goldilocks
 * tool for efficient management of k0s Kubernetes clusters: https://github.com/k0sproject/k0smotron
+* Kubernetes Virtualization API and runtime in order to define and manage virtual machines: https://github.com/kubevirt/kubevirt
+* Serverless on Kubernetes, powered by WebAssembly: https://www.spinkube.dev/
 
 ### Costs monitoring
 
 * OpenCost — your favorite open source cost monitoring tool for Kubernetes and cloud spend: https://github.com/opencost/opencost
+
+### Light-weight VMs on Kubernetes
+
+* Kata Containers: https://github.com/kata-containers/kata-containers
 
 ## Data and Databases(DBs)
 
@@ -45,6 +51,8 @@
   * https://github.com/zendesk/maxwell/blob/master/README.md
 * Stream changes from your database: https://debezium.io/
 * kill-mysql-query interactively shows long running queries in MySQL database and provides option to kill them one by one: https://github.com/mugli/go-kill-mysql-query
+* FoundationDB - the open source, distributed, transactional key-value store: https://github.com/apple/foundationdb/
+* GitHub's Online Schema-migration Tool for MySQL: https://github.com/github/gh-ost
 
 ### Migrations
 
@@ -52,6 +60,10 @@
 *  🚀 A lightweight, framework-agnostic database migration tool: https://github.com/amacneil/dbmate
 *  Database migrations. CLI and Golang library: https://github.com/golang-migrate/migrate
 *  PostgreSQL zero-downtime migrations made easy:https://github.com/xataio/pgroll
+
+## Messaging and Streaming
+
+* Iggy is the persistent message streaming platform written in Rust: https://github.com/iggy-rs/iggy
 
 ## Images
 
@@ -72,6 +84,11 @@
 * Application performance monitor tool for distributed systems: https://skywalking.apache.org/
 * SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application: https://github.com/SigNoz/signoz
 
+### Alerts
+
+* Alerta - tool used to consolidate and de-duplicate alerts from multiple sources for quick ‘at-a-glance’ visualisation: https://docs.alerta.io/
+* Swiss-knife for managing alerts/events at scale: https://www.keephq.dev/
+
 ### APM
 
 * Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures: https://skywalking.apache.org/
@@ -80,6 +97,10 @@
 ### OpenTelemetry
 
 * OpenTelemetry command-line tool for sending events from shell scripts & similar environments: https://github.com/equinix-labs/otel-cli
+
+### Continuous profiling
+
+* Perforator is a modern profiling tool designed for large data centers: https://perforator.tech/docs/en/
 
 ## Everyday tools, utils, terminal, console
 
@@ -114,6 +135,9 @@
 
 # DevOps
 ## Infrastructure as a code
+
+* ytt is a templating tool that understands YAML structure: https://github.com/carvel-dev/ytt
+
 ### Terraform
 
 * Terraformer - A CLI tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform): https://github.com/GoogleCloudPlatform/terraformer
@@ -165,6 +189,16 @@
 * The Multiple Runtime Version Manager: https://asdf-vm.com/
 * The front-end to your dev env: https://mise.jdx.dev/
 
+# SRE
+## Incident management/on-call
+
+* OneUptime is the complete open-source observability platform: https://github.com/OneUptime/oneuptime?tab=readme-ov-file
+* Developer-friendly incident response with brilliant Slack integration: https://github.com/grafana/oncall
+
+## Workflow management
+
+* Workflow management - Temporal: https://github.com/temporalio/temporal
+* Workflow automation platform with native AI capabilities: https://github.com/n8n-io/n8n
 
 # SecOps
 
@@ -197,11 +231,11 @@
 * Open WebUI - A web-based user interface for LLMs: https://docs.openwebui.com
 * Semantic Router is a superfast decision-making layer for your LLMs and agents: https://github.com/aurelio-labs/semantic-router
 * Pack entire repository in LLM friendly format: https://github.com/yamadashy/repomix
+* Langfuse: Open Source LLM Engineering Platform: https://github.com/langfuse/langfuse
 
-# Incident management/on-call
+## AI/LLM Development Tools
 
-* OneUptime is the complete open-source observability platform: https://github.com/OneUptime/oneuptime?tab=readme-ov-file
-* Developer-friendly incident response with brilliant Slack integration: https://github.com/grafana/oncall
+* The open source Cursor for Designers. Design directly in your live React app and publish your changes to code: https://github.com/onlook-dev/onlook
 
 # Python
 
