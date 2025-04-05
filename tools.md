@@ -77,6 +77,10 @@
 * Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures: https://skywalking.apache.org/
 * Open source APM: OpenTelemetry traces, metrics, and logs: https://github.com/uptrace/uptrace
 
+### OpenTelemetry
+
+* OpenTelemetry command-line tool for sending events from shell scripts & similar environments: https://github.com/equinix-labs/otel-cli
+
 ## Everyday tools, utils, terminal, console
 
 * Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration: https://ohmyz.sh/
