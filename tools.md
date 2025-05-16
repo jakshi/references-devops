@@ -237,6 +237,10 @@
 
 * The open source Cursor for Designers. Design directly in your live React app and publish your changes to code: https://github.com/onlook-dev/onlook
 
+## ChatGPT clones
+
+* LibreChat - ChatGPT Clone: https://github.com/danny-avila/LibreChat?tab=readme-ov-file 
+
 # Python
 
 * C++ python bytecode disassembler and decompiler: https://github.com/zrax/pycdc
