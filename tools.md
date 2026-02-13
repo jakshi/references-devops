@@ -59,7 +59,11 @@
 * Atlas is a language-independent tool for managing and migrating database schemas: https://atlasgo.io/docs
 *  🚀 A lightweight, framework-agnostic database migration tool: https://github.com/amacneil/dbmate
 *  Database migrations. CLI and Golang library: https://github.com/golang-migrate/migrate
-*  PostgreSQL zero-downtime migrations made easy:https://github.com/xataio/pgroll
+
+### PostgreSQL
+
+* PgBouncer drop-in replacement written in Rust, with extra functionality: https://github.com/postgresml/pgcat
+* PostgreSQL zero-downtime migrations made easy:https://github.com/xataio/pgroll
 
 ## Messaging and Streaming
 
@@ -236,6 +240,10 @@
 ## AI/LLM Development Tools
 
 * The open source Cursor for Designers. Design directly in your live React app and publish your changes to code: https://github.com/onlook-dev/onlook
+
+## ChatGPT clones
+
+* LibreChat - ChatGPT Clone: https://github.com/danny-avila/LibreChat?tab=readme-ov-file 
 
 # Python
 
