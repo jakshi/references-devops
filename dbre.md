@@ -9,3 +9,5 @@
 # PostgreSQL
 
 * Awesome Postgres: https://github.com/dhamaniasad/awesome-postgres
+* A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes: https://github.com/patroni/patroni?tab=readme-ov-file#how-patroni-works
+* Postgres operator creates and manages PostgreSQL clusters running in Kubernetes: https://github.com/zalando/postgres-operator?tab=readme-ov-file
