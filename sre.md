@@ -26,11 +26,6 @@
 
 * OpenSLO is a service level objective (SLO) language that declaratively defines reliability and performance targets using a simple YAML specification: https://openslo.com/
 
-## Troubleshooting k8s
-
-* RunWhen Local is like your personal troubleshooter's toolbox: https://docs.runwhen.com/public/v/runwhen-local
-* RunWhen Local is like your personal troubleshooter's toolbox - Github: https://github.com/runwhen-contrib/runwhen-local
-
 ## Instrumentation
 
 * Autometrics is an observability micro-framework built for developers. It makes it easy to instrument any function with the most useful metrics: request rate, error rate, and latency: 

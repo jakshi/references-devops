@@ -157,37 +157,6 @@ DevOps is also characterized by operations staff making use many of the same tec
 
 * http://rcoedo.com/post/hugo-static-site-generator/
 
-## Kubernetes/k8s
-
-* https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab
-* https://blog.openai.com/scaling-kubernetes-to-2500-nodes/
-* How to Pass a Configuration File to a Kubernetes Pod: https://towardsdatascience.com/how-to-pass-a-configuration-file-to-a-kubernetes-pod-61c1bcd286a5
-* Kubernetes API - which fields are updatable and other questions: https://kubernetes.io/docs/reference/kubernetes-api/
-
-### Cost management
-
-* Kubecost | Kubernetes cost monitoring and management: https://www.kubecost.com/
-
-### Tools
-
-### 0-downtime deployment
-
-### DNS delays
-
-### Networking
-
-* https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
-
-### CPU throttling/CPU Limits
-
-* https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/
-* https://thenewstack.io/how-kubernetes-requests-and-limits-really-work/
-* https://thenewstack.io/how-k8s-cpu-requests-and-limits-actually-work-chapter-2/
-
-### Autoscaling
-
-* https://learnk8s.io/kubernetes-autoscaling-strategies#exploring-pod-autoscaling-lead-time
-
 ## Git/Github
 
 * How To Work With Multiple Github Accounts on a single Machine: https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3
